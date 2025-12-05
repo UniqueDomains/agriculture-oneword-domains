@@ -1,59 +1,49 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
 b3b19b9b-5c91-4cad-aa00-5c425024440d,farming.at,sold,88,76,7,Ledl.net GmbH ( https://nic.at/registrar/32 ),,
 0d01eccc-eb52-482d-a041-46774393a03a,farming.cloud,resell,88,76,7,"Spaceship, Inc.",11/02/2016 01:45,11/02/2026 01:45
-0a4acf5d-e251-4a07-b877-407e29008d28,farming.dev,available,88,76,7,,,
+0a4acf5d-e251-4a07-b877-407e29008d28,farming.dev,premium,88,76,7,,,
 f0b32bec-b512-43ca-a272-1ff500901929,farming.gg,resell,88,76,7,Enrapture Limited (https://enrapture.gg),,
 7fa36ace-8a04-4532-b294-b99175089883,farming.io,resell,88,76,7,"GoDaddy.com, LLC",05/08/2015 00:30,05/08/2026 00:30
 306f9932-5f73-470d-be68-7637fe9d6da0,farming.it,resell,88,76,7,,22/01/2024 09:00,22/01/2026 00:00
 3c4666d1-65a9-478b-b424-0bf7276f51ed,farming.me,expiring,88,76,7,1API GmbH,09/07/2008 17:03,09/07/2025 17:03
 f73d86be-b046-41c7-b203-3194325a9082,farming.net,resell,88,76,7,Tucows Domains Inc.,30/09/1997 04:00,29/09/2025 04:00
-a49efc76-a13c-4820-ac14-989854b77143,farming.site,available,88,76,7,,,
+a49efc76-a13c-4820-ac14-989854b77143,farming.site,premium,88,76,7,,,
 ac8235e0-6b3b-4813-b73d-53fc6a0c3c62,farming.so,available,88,76,7,,,
-baf47939-1ff0-4438-b8fc-e0718beca754,farming.store,available,88,76,7,,,
-2a3b3b1b-68ac-4222-9d9a-7818dd6b1b62,farming.tech,available,88,76,7,,,
+baf47939-1ff0-4438-b8fc-e0718beca754,farming.store,premium,88,76,7,,,
+2a3b3b1b-68ac-4222-9d9a-7818dd6b1b62,farming.tech,premium,88,76,7,,,
 407dab58-53f6-4231-a5f0-14942b2693b5,farming.xyz,resell,88,76,7,"Go Daddy, LLC",02/06/2014 17:07,02/06/2026 23:59
-34062282-5b12-4094-ba82-018dedb958bc,services.at,available,72,92,8,,,
-4a85e913-c8a6-4708-90dc-f736d27e9a21,services.cloud,available,72,92,8,,,
+34062282-5b12-4094-ba82-018dedb958bc,services.at,premium,72,92,8,,,
+4a85e913-c8a6-4708-90dc-f736d27e9a21,services.cloud,premium,72,92,8,,,
 022913c9-7fd9-4de1-be91-1ca8236fa9bd,services.co,resell,72,92,8,Hello Internet Corp.,25/02/2010 00:55,24/02/2026 23:59
-3fe05864-07d9-4f83-b2b0-b45f83646628,services.online,available,72,92,8,,,
-8b854c9a-c05e-4fc6-b080-761d5753cf41,services.site,available,72,92,8,,,
-cc2b561f-1640-4620-b0ae-c235e5079085,services.space,available,72,92,8,,,
-224a0751-cdda-4221-a952-af441532c412,services.store,available,72,92,8,,,
-e75868ea-a536-435c-a269-be3e87321d88,services.tech,available,72,92,8,,,
+3fe05864-07d9-4f83-b2b0-b45f83646628,services.online,premium,72,92,8,,,
+8b854c9a-c05e-4fc6-b080-761d5753cf41,services.site,premium,72,92,8,,,
+cc2b561f-1640-4620-b0ae-c235e5079085,services.space,premium,72,92,8,,,
+224a0751-cdda-4221-a952-af441532c412,services.store,premium,72,92,8,,,
+e75868ea-a536-435c-a269-be3e87321d88,services.tech,premium,72,92,8,,,
 76c50c76-9990-4be5-bb31-820204f75468,production.at,sold,70,96,10,World4You Internet Services GmbH ( https://nic.at/registrar/61 ),,
-9648f519-0854-4ac3-a60b-648d666f7f6c,production.cloud,available,70,96,10,,,
-bc741202-d5da-4ed9-8a5d-5fd333414eda,production.online,available,70,96,10,,,
+9648f519-0854-4ac3-a60b-648d666f7f6c,production.cloud,premium,70,96,10,,,
+bc741202-d5da-4ed9-8a5d-5fd333414eda,production.online,premium,70,96,10,,,
 e8223574-f6ca-4aff-b3c3-4de245f65029,production.org,resell,70,96,10,Dynadot Inc,02/10/2001 18:03,02/10/2026 18:03
-ac05986d-0fe1-4d5b-b5cf-789029482be1,production.site,available,70,96,10,,,
-3118a1bb-7a46-4e40-873f-ede1f27db978,production.space,available,70,96,10,,,
-8eb2eda6-1550-4fb8-baa8-304cd75e2c97,production.store,available,70,96,10,,,
-24470564-017e-474d-a43c-8a363bba4692,production.tech,available,70,96,10,,,
+ac05986d-0fe1-4d5b-b5cf-789029482be1,production.site,premium,70,96,10,,,
+3118a1bb-7a46-4e40-873f-ede1f27db978,production.space,premium,70,96,10,,,
+8eb2eda6-1550-4fb8-baa8-304cd75e2c97,production.store,premium,70,96,10,,,
+24470564-017e-474d-a43c-8a363bba4692,production.tech,premium,70,96,10,,,
 0cf4f843-ec67-46a0-9080-915035fa6aeb,management.app,resell,76,84,10,"GoDaddy.com, LLC",08/05/2018 17:10,08/05/2026 17:10
-610f593e-14fd-4cb0-ab50-cf2cb78f8fc4,management.cloud,available,76,84,10,,,
+610f593e-14fd-4cb0-ab50-cf2cb78f8fc4,management.cloud,premium,76,84,10,,,
 5f90bd5a-e7eb-463e-acef-ed9dc551d1bb,management.co,resell,76,84,10,Hello Internet Corp.,24/02/2010 22:49,23/02/2026 23:59
 4da35666-49f1-4040-a3da-b200e9155053,management.com,resell,76,84,10,"NameCheap, Inc.",06/06/1997 04:00,05/06/2026 04:00
-576abe10-44e7-4cfc-a46e-f4411e3d3a39,management.dev,available,76,84,10,,,
-06fb067c-563e-47d7-9903-ca43304da860,management.expert,available,76,84,10,,,
+576abe10-44e7-4cfc-a46e-f4411e3d3a39,management.dev,premium,76,84,10,,,
+06fb067c-563e-47d7-9903-ca43304da860,management.expert,premium,76,84,10,,,
 62550ad5-4086-4fa1-b997-c6463b8f3091,management.gg,resell,76,84,10,Dynadot Inc. (https://www.dynadot.com),,
 e00d3085-4a5b-4715-aa43-057d10669695,management.io,resell,76,84,10,"Name.com, Inc.",17/05/2024 21:03,17/05/2026 21:03
 6c620f56-b63b-4674-b288-ab49cef371a2,management.me,resell,76,84,10,Dynadot Inc,13/09/2015 02:35,13/09/2025 02:35
-f240a3ef-5324-4e77-af54-3f339bff729b,management.online,available,76,84,10,,,
+f240a3ef-5324-4e77-af54-3f339bff729b,management.online,premium,76,84,10,,,
 9481735c-16c7-403f-b5b2-f4c5bd451b54,management.org,expiring,76,84,10,"GoDaddy.com, LLC",24/07/1998 04:00,23/07/2025 04:00
 5d44fc0b-3483-4e4c-a410-a23676c59dcc,management.pro,resell,76,84,10,"EnCirca, Inc.",22/06/2007 00:00,22/06/2026 00:00
-7b1a92c0-c930-4323-91d2-0d659d73ae76,management.site,available,76,84,10,,,
-729f67c4-8cb6-4cee-a7a8-7e0cf31607c9,management.space,available,76,84,10,,,
-ed40715b-4b23-4093-a52d-9a50d2f72234,management.store,available,76,84,10,,,
-70fc5802-d3c4-46d2-b1f2-079e670d8711,management.tech,available,76,84,10,,,
-275f5870-8929-48da-a2ba-61051dcddb43,dairyfarming.ai,available,70,72,13,,,
-92a4c78a-896a-4a4b-85fb-f24c29fb62ba,dairyfarming.app,available,70,72,13,,,
-9bd4bbf6-319f-4fe2-a0d5-646a85ff9506,dairyfarming.at,available,70,72,13,,,
-624e8211-f4c7-4589-98e6-57fcbdc32fb7,dairyfarming.cloud,available,70,72,13,,,
-b517e832-a99e-415c-96b5-ffd4ca9acc0f,dairyfarming.com,resell,70,72,13,"GoDaddy.com, LLC",10/12/1998 05:00,09/12/2026 05:00
-552f1fb3-6d81-46f8-9941-c753ab6d0b4d,dairyfarming.dev,available,70,72,13,,,
-a56b01aa-ee36-47ca-8f07-6e5aaf922830,dairyfarming.expert,available,70,72,13,,,
-0dd1fd74-8007-47e7-87fc-6e2757fef7c3,dairyfarming.gg,available,70,72,13,,,
-c1357cb6-f71f-480a-97ee-e8217056cfbe,dairyfarming.io,available,70,72,13,,,
-657b4781-7d7d-4763-b2a9-2f481aec9a01,dairyfarming.it,resell,70,72,13,,07/10/2018 16:00,06/11/2025 00:00
+7b1a92c0-c930-4323-91d2-0d659d73ae76,management.site,premium,76,84,10,,,
+729f67c4-8cb6-4cee-a7a8-7e0cf31607c9,management.space,premium,76,84,10,,,
+ed40715b-4b23-4093-a52d-9a50d2f72234,management.store,premium,76,84,10,,,
+70fc5802-d3c4-46d2-b1f2-079e670d8711,management.tech,premium,76,84,10,,,
 0293f2a6-b0a2-4dd8-9554-8379786e1e75,dairyfarming.me,available,70,72,13,,,
 dbd29cc1-4b74-4d5d-a978-950caad42cb1,dairyfarming.ninja,available,70,72,13,,,
 bd80db3a-2feb-42ec-8a24-0a06a2e2c7a6,dairyfarming.online,expiring,70,72,13,"Go Daddy, LLC",11/07/2023 15:49,11/07/2025 23:59
@@ -65,6 +55,16 @@ e7a7afe6-1b89-4f62-aa01-1a45eee6454d,dairyfarming.space,available,70,72,13,,,
 79be0483-2d7b-4b32-8d3e-077a71017f03,dairyfarming.us,available,70,72,13,,,
 6c892d18-f874-4b50-be63-bfe03bb89f0b,dairyfarming.xyz,available,70,72,13,,,
 2431b504-c28d-4bd2-8efb-2f75e7d68b26,dairyfarming.zone,available,70,72,13,,,
+275f5870-8929-48da-a2ba-61051dcddb43,dairyfarming.ai,available,70,72,13,,,
+92a4c78a-896a-4a4b-85fb-f24c29fb62ba,dairyfarming.app,available,70,72,13,,,
+9bd4bbf6-319f-4fe2-a0d5-646a85ff9506,dairyfarming.at,available,70,72,13,,,
+624e8211-f4c7-4589-98e6-57fcbdc32fb7,dairyfarming.cloud,available,70,72,13,,,
+b517e832-a99e-415c-96b5-ffd4ca9acc0f,dairyfarming.com,resell,70,72,13,"GoDaddy.com, LLC",10/12/1998 05:00,09/12/2026 05:00
+552f1fb3-6d81-46f8-9941-c753ab6d0b4d,dairyfarming.dev,available,70,72,13,,,
+a56b01aa-ee36-47ca-8f07-6e5aaf922830,dairyfarming.expert,available,70,72,13,,,
+0dd1fd74-8007-47e7-87fc-6e2757fef7c3,dairyfarming.gg,available,70,72,13,,,
+c1357cb6-f71f-480a-97ee-e8217056cfbe,dairyfarming.io,available,70,72,13,,,
+657b4781-7d7d-4763-b2a9-2f481aec9a01,dairyfarming.it,resell,70,72,13,,07/10/2018 16:00,06/11/2025 00:00
 e5f2e4c3-8e06-451f-8df3-e1bab0952fc2,animalhusbandry.ai,available,54,72,16,,,
 22294d25-2744-421f-973e-4dd490d48b2b,animalhusbandry.app,available,54,72,16,,,
 d193cb15-93fc-4c6b-87a0-b4a83cfa6dd8,animalhusbandry.at,available,54,72,16,,,

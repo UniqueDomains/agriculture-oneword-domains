@@ -34,23 +34,23 @@ If you want to search & filters the complete database of [Agriculture one word d
 | farming.store        | premium   | 88       | 76%    | 7      |                                               |                  |                  |
 | farming.tech         | premium   | 88       | 76%    | 7      |                                               |                  |                  |
 | farming.xyz          | resell    | 88       | 76%    | 7      | Go Daddy, LLC                                 | 02/06/2014 17:07 | 02/06/2026 23:59 |
-| services.academy     | resell    | 72       | 23%    | 8      | Dynadot Inc                                   | 06/07/2025 17:00 | 06/07/2026 17:00 |
-| services.accountant  | premium   | 72       | 23%    | 8      |                                               |                  |                  |
-| services.accountants | premium   | 72       | 23%    | 8      |                                               |                  |                  |
-| services.actor       | available | 72       | 23%    | 8      |                                               |                  |                  |
-| services.adult       | premium   | 72       | 23%    | 8      |                                               |                  |                  |
-| services.ag          | available | 72       | 23%    | 8      |                                               |                  |                  |
-| services.airforce    | available | 72       | 23%    | 8      |                                               |                  |                  |
-| services.apartments  | available | 72       | 23%    | 8      |                                               |                  |                  |
-| services.army        | available | 72       | 23%    | 8      |                                               |                  |                  |
-| services.asia        | resell    | 72       | 23%    | 8      | GoDaddy.com, LLC                              | 04/07/2008 07:05 | 04/07/2026 07:05 |
-| services.associates  | premium   | 72       | 23%    | 8      |                                               |                  |                  |
-| services.at          | premium   | 72       | 23%    | 8      |                                               |                  |                  |
-| services.attorney    | premium   | 72       | 23%    | 8      |                                               |                  |                  |
-| services.auction     | premium   | 72       | 23%    | 8      |                                               |                  |                  |
-| services.audio       | premium   | 72       | 23%    | 8      |                                               |                  |                  |
-| services.auto        | available | 72       | 23%    | 8      |                                               |                  |                  |
-| services.autos       | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.page        | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.partners    | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.parts       | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.party       | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.pet         | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.phd         | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.photo       | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.photos      | available | 72       | 23%    | 8      |                                               |                  |                  |
+| services.pictures    | available | 72       | 23%    | 8      |                                               |                  |                  |
+| services.pizza       | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.place       | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.plumbing    | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.poker       | available | 72       | 23%    | 8      |                                               |                  |                  |
+| services.porn        | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.press       | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.productions | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.prof        | premium   | 72       | 23%    | 8      |                                               |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Agriculture-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 

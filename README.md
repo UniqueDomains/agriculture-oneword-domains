@@ -34,23 +34,23 @@ If you want to search & filters the complete database of [Agriculture one word d
 | farming.store      | premium   | 88       | 76%    | 7      |                                               |                  |                  |
 | farming.tech       | premium   | 88       | 76%    | 7      |                                               |                  |                  |
 | farming.xyz        | resell    | 88       | 76%    | 7      | Go Daddy, LLC                                 | 02/06/2014 17:07 | 02/06/2026 23:59 |
+| services.la        | resell    | 72       | 23%    | 8      | LA Domain Names                               | 05/06/2023 08:45 | 05/06/2026 23:59 |
+| services.land      | expiring  | 72       | 23%    | 8      | NameSilo, LLC                                 | 03/01/2023 00:03 | 03/01/2026 00:03 |
+| services.lawyer    | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.lease     | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.legal     | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.lgbt      | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.life      | resell    | 72       | 23%    | 8      | DNSPod, Inc.                                  | 10/07/2024 15:15 | 10/07/2026 15:15 |
+| services.lifestyle | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.limited   | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.link      | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.living    | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.loan      | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.loans     | available | 72       | 23%    | 8      |                                               |                  |                  |
+| services.locker    | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.love      | premium   | 72       | 23%    | 8      |                                               |                  |                  |
+| services.ltda      | premium   | 72       | 23%    | 8      |                                               |                  |                  |
 | services.luxe      | resell    | 72       | 23%    | 8      | Porkbun                                       | 21/07/2021 20:03 | 21/07/2026 20:03 |
-| services.luxury    | premium   | 72       | 23%    | 8      |                                               |                  |                  |
-| services.makeup    | premium   | 72       | 23%    | 8      |                                               |                  |                  |
-| services.marketing | resell    | 72       | 23%    | 8      | Dynadot Inc                                   | 16/07/2025 17:00 | 16/07/2026 17:00 |
-| services.mba       | available | 72       | 23%    | 8      |                                               |                  |                  |
-| services.me        | resell    | 72       | 23%    | 8      | GoDaddy.com, LLC                              | 29/04/2008 18:02 | 29/04/2026 18:02 |
-| services.melbourne | premium   | 72       | 23%    | 8      |                                               |                  |                  |
-| services.meme      | premium   | 72       | 23%    | 8      |                                               |                  |                  |
-| services.memorial  | available | 72       | 23%    | 8      |                                               |                  |                  |
-| services.men       | resell    | 72       | 23%    | 8      | Spaceship, Inc.                               | 01/03/2016 13:39 | 01/03/2026 13:39 |
-| services.menu      | premium   | 72       | 23%    | 8      |                                               |                  |                  |
-| services.miami     | expiring  | 72       | 23%    | 8      | GoDaddy.com, LLC                              | 27/12/2021 21:29 | 27/12/2025 21:29 |
-| services.mobi      | premium   | 72       | 23%    | 8      |                                               |                  |                  |
-| services.moda      | available | 72       | 23%    | 8      |                                               |                  |                  |
-| services.moe       | premium   | 72       | 23%    | 8      |                                               |                  |                  |
-| services.mom       | premium   | 72       | 23%    | 8      |                                               |                  |                  |
-| services.money     | resell    | 72       | 23%    | 8      | Spaceship, Inc.                               | 07/07/2023 13:12 | 07/07/2026 13:12 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Agriculture-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [Agriculture one word d
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,756       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 63,843       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,573    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,719       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 64,044       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,599,086    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |

@@ -1,22 +1,22 @@
-# Agriculture One-Word Domains (10,925)
+# Agriculture Keyword Domains (9,634)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C925%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C634%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of agriculture one-word domains from Unique Domains.
+These domains are agriculture-related names built around terms such as barn, soil, organic, rural, and environment across 505 TLDs. Updated daily. This selection contains 9,634 domains, with a median ask of $2,774, so price discipline matters when comparing relevance against extension quality.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,925 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,634 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,925 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,634 domains · **Median ask:** $2,773.67 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/sector/Agriculture`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                   |
-| ------------------ | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| agricultural.zone  | available | $14.99      | $46.99        | 74             | 84     | 12     | name.com                                    |
-| crop.xyz           | resell    | $228,721.20 | $20.99        | 86             | 96     | 4      | Dynadot LLC                                 |
-| crop.store         | premium   | $312.50     | $1,250        | 86             | 96     | 4      | name.com                                    |
-| agricultural.ninja | available | $9.99       | $34.99        | 74             | 84     | 12     | name.com                                    |
-| agriculture.io     | resell    | $168,013.85 | $59.99        | 62             | 80     | 11     | Divido Ltd                                  |
-| crop.space         | premium   | $32.50      | $130          | 86             | 96     | 4      | namecheap                                   |
-| agricultural.gg    | available | $70.98      | —             | 74             | 84     | 12     | namecheap                                   |
-| farming.io         | resell    | $162,953.85 | $73.99        | 88             | 76     | 7      | GoDaddy.com, LLC                            |
-| crop.site          | premium   | $312.50     | $1,250        | 86             | 96     | 4      | name.com                                    |
-| agriculture.ninja  | available | $9.99       | $34.99        | 62             | 80     | 11     | name.com                                    |
-| farming.cloud      | resell    | $189.75     | $39.99        | 88             | 76     | 7      | Spaceship, Inc.                             |
-| crop.online        | premium   | $1,562.50   | $6,250        | 86             | 96     | 4      | name.com                                    |
-| field.ryukyu       | available | $22.98      | —             | 68             | 38     | 5      | namecheap                                   |
-| crop.pro           | resell    | —           | —             | 86             | 96     | 4      | Dynadot Inc                                 |
-| agricultural.tech  | premium   | $650        | $1,300        | 74             | 84     | 12     | namecheap                                   |
-| field.paris        | available | $51.98      | —             | 68             | 38     | 5      | namecheap                                   |
-| crop.at            | resell    | —           | —             | 86             | 96     | 4      | EWBCD GmbH ( https://nic.at/registrar/750 ) |
-| agricultural.store | premium   | $312.50     | $1,250        | 74             | 84     | 12     | name.com                                    |
-| field.moi          | available | $39.99      | —             | 68             | 38     | 5      | name.com                                    |
-| agricultural.pro   | resell    | —           | —             | 74             | 84     | 12     | Epik LLC                                    |
+| domain             | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| soil.osaka         | available | $39.99      | $39.99        | 92             | 24     | 4      | name.com         |
+| soil.town          | available | $9.99       | $48.99        | 92             | 24     | 4      | name.com         |
+| food.ceo           | premium   | $258.70     | $258.70       | 94             | 44     | 4      | namecheap        |
+| food.observer      | premium   | $26         | $26           | 94             | 44     | 4      | namecheap        |
+| soil.bike          | available | $14.99      | $50.99        | 92             | 24     | 4      | name.com         |
+| agricultural.zone  | available | $14.99      | $46.99        | 74             | 84     | 12     | name.com         |
+| crop.xyz           | resell    | $228,721.20 | $20.99        | 86             | 96     | 4      | Dynadot LLC      |
+| crop.store         | premium   | $312.50     | $1,250        | 86             | 96     | 4      | name.com         |
+| agricultural.so    | available | $64.98      | —             | 74             | 84     | 12     | namecheap        |
+| agriculture.io     | resell    | $168,013.85 | $59.99        | 62             | 80     | 11     | Divido Ltd       |
+| crop.space         | premium   | $32.50      | $130          | 86             | 96     | 4      | namecheap        |
+| agricultural.ninja | available | $9.99       | $34.99        | 74             | 84     | 12     | name.com         |
+| farming.io         | resell    | $162,953.85 | $73.99        | 88             | 76     | 7      | GoDaddy.com, LLC |
+| crop.site          | premium   | $312.50     | $1,250        | 86             | 96     | 4      | name.com         |
+| agricultural.gg    | available | $70.98      | —             | 74             | 84     | 12     | namecheap        |
+| farming.cloud      | resell    | $189.75     | $39.99        | 88             | 76     | 7      | Spaceship, Inc.  |
+| crop.online        | premium   | $1,562.50   | $6,250        | 86             | 96     | 4      | name.com         |
+| agriculture.so     | available | $64.98      | —             | 62             | 80     | 11     | namecheap        |
+| food.services      | resell    | $260        | $260          | 94             | 44     | 4      | Spaceship, Inc.  |
+| agricultural.tech  | premium   | $650        | $1,300        | 74             | 84     | 12     | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,925 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 9,634 live domains                         |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is defined by agriculture-related keywords, but the names span a very wide range of extensions and commercial quality. Sample terms include barn, soil, organic, rural, and environment, which makes relevance easy to spot but fit harder to judge. With 9,634 domains across 505 TLDs and a median ask of $2,774, the main task is not finding agriculture wording. It is separating strong, usable names from weak extension matches. When comparing these domains, weigh the keyword's commercial clarity first, then the TLD's credibility, then whether the ask is justified for that exact combination.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Check the keyword first: barn, soil, organic, rural, environment
+- Favor TLDs that fit business use, not novelty alone
+- Use the $2,774 median ask as a pricing reality check
+- Avoid paying up for weak keyword-extension combinations
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Agriculture One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Agriculture Keyword Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

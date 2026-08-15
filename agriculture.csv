@@ -9,7 +9,6 @@ e6490ced-fb48-42ed-bff2-bfeb6ceb3e6d,water.organic,resell,,,high,medium,5,"Sav.c
 99edcc27-31ca-47ad-a213-859a348e98e6,technology.farm,resell,,,high,low,10,"GoDaddy.com, LLC",11/12/2024 14:54,11/12/2026 14:54
 db7e484f-02d3-41d9-8169-515f4b4b28e4,environment.farm,available,13.99,,high,low,11,name.com,,
 891bd563-9c26-44b9-97da-c6074bcde6e2,environmental.farm,available,13.99,,high,low,13,name.com,,
-587756f6-155f-4203-a68d-42e3512c416f,cultivated.farm,available,4.98,49.98,medium,low,10,namecheap,,
 eff56a29-2a7d-4b1f-9964-4678f2e349ac,climate.green,premium,1107,1107,high,low,7,namesilo,,
 56702519-c91c-48e4-b802-c96f3a0c27d6,barn.green,available,11.99,,high,low,4,name.com,,
 bb66c6cd-e4f1-443f-ac3c-4566518f4d69,produce.green,premium,625,,high,low,7,name.com,,
@@ -18,14 +17,12 @@ a4a68004-34be-4f23-bb0d-26206485d800,barn.garden,available,1.99,,high,low,4,name
 4a63ef9b-f6cb-47df-87f1-4c363509257a,produce.garden,premium,500,,high,low,7,name.com,,
 b49f18f1-551e-4d69-8cf9-0e3ee60a3bb6,animal.green,premium,625,,high,low,6,name.com,,
 11ac8174-441f-4ba0-aed0-7affa12ffcdb,soil.green,premium,1875,1875,high,low,4,name.com,,
-b21a99c1-9073-4b50-8c85-62182413399a,seeds.eco,premium,9375,,medium,low,5,name.com,,
 ae28cbaf-c9e7-47fd-8c13-35c07d049604,barn.organic,available,19.99,,high,low,4,name.com,,
 b458e834-a679-4360-a4e6-c5152508e300,produce.organic,available,19.99,,high,low,7,name.com,,
 596e8344-0ceb-48f5-a431-dade4f06af45,climate.organic,available,19.99,,high,low,7,name.com,,
 45ad24f7-62d3-4ff0-9fbd-e055b0821c7c,vertical.farm,resell,,,high,low,8,"Spaceship, Inc.",02/11/2017 17:05,02/11/2026 17:05
 09a09895-d5cc-4f8f-9925-671dfd4db41c,soil.garden,premium,100,,high,low,4,name.com,,
 db7bf7e5-d202-428d-86ce-fe9b59a91d5f,water.tech,premium,3125,,high,medium,5,name.com,,
-47b2708c-f5d4-4f7d-9ced-dc167562590a,pestcontrol.organic,available,19.99,,high,low,12,name.com,,
 f5d41772-4abf-4980-8f06-a5fde2761569,weather.green,premium,625,,high,medium,7,name.com,,
 b9a8631d-a618-4cf3-83b1-96e46f2e6679,soil.organic,available,19.99,73.99,high,low,4,name.com,,
 88780941-b501-4b88-bdbe-54d3fca66047,yield.organic,available,19.99,,high,low,5,name.com,,
@@ -34,7 +31,6 @@ f8b1377e-04b3-493c-8274-8df737f67e90,rural.green,available,11.99,,high,low,5,nam
 d016b67d-a084-46d8-9a90-16dcb6b715b3,technology.green,premium,1300,1300,high,low,10,namecheap,,
 dba9d931-4f3f-4cd0-8572-045bc81faee7,soil.eco,premium,4375,113.99,high,low,4,name.com,,
 5c64e7db-5fa7-4164-8aed-e0a66d6544d3,weather.garden,premium,242,29.5,high,medium,7,namesilo,,
-e4eb0cc6-beb6-46a3-b9e1-306a5b819c5f,cereal.green,available,11.98,102.98,low,low,6,namecheap,,
 1a1c1771-3b37-46f2-a9ba-7e3431c4e4ad,technology.garden,available,39.98,,high,low,10,namecheap,,
 2e9a6fb0-8c63-4d6e-a8dd-9eb4955b4b54,gather.farm,available,13.99,50.99,high,low,6,name.com,,
 1b36bcc6-8de2-4a7b-94aa-89880f82da38,weather.organic,available,19.99,,high,medium,7,name.com,,
@@ -89,7 +85,6 @@ a0d95b06-46bb-475d-b3d5-7a1ab28666e8,gather.eco,premium,9375,113.99,high,low,6,n
 6353e48c-4f96-4e25-a294-d5e0ea92f08a,science.ai,resell,,,high,medium,7,Deep Vision Architects,16/12/2017 04:52,20/04/2027 04:52
 6ce88106-6c50-4494-a654-0c9ca1d8d268,smart.organic,resell,,,high,medium,5,"Sav.com, LLC",01/04/2025 17:19,01/04/2027 17:19
 be060aff-38a9-41a5-b76e-fb4d7f95209f,milk.organic,available,,,high,low,4,,,
-9d76ba94-873a-4695-9645-eee079a649d4,cultivated.green,available,11.98,102.98,low,low,10,namecheap,,
 2d893920-5a0c-40f7-a4f7-9e6c94f0a3ce,farmer.garden,premium,96,29.5,high,low,6,namesilo,,
 7d80b658-7e14-4f16-b09e-6a7ae2263681,yield.eco,available,64.99,,high,low,5,name.com,,
 31ce1723-b58c-439b-9601-69edae47d377,milk.eco,premium,1875,,high,low,4,name.com,,
@@ -105,20 +100,17 @@ be060aff-38a9-41a5-b76e-fb4d7f95209f,milk.organic,available,,,high,low,4,,,
 b1f7036b-3f23-47d2-9dc4-1d373a099f01,farm.organic,resell,,,high,low,4,"Network Solutions, LLC",10/04/2025 15:15,10/04/2027 15:15
 36e1fbeb-b74e-4b90-af5d-759b0262e7fc,farmer.organic,available,19.99,,high,low,6,name.com,,
 5e5b1b1d-7f4b-4740-bac5-7a6fbe8747ff,production.garden,available,1.99,,high,low,10,name.com,,
-e157c8c6-b487-4a9f-ab3e-681a62a7e95e,water.land,resell,,,high,medium,5,Porkbun LLC,21/10/2017 08:02,21/10/2026 08:02
 29c7d6d1-8ba2-457e-8bb1-05712e2c4674,field.green,premium,625,,medium,low,5,name.com,,
 9c142aac-995d-471c-8714-98360bc4d688,nursery.green,available,11.99,,medium,low,7,name.com,,
 8e02dcc5-d61d-4b85-9518-45bed42ea05c,industry.green,premium,625,,medium,medium,8,name.com,,
 c679bb42-f020-47f1-a227-c2558689aefc,farmer.eco,premium,4375,,high,low,6,name.com,,
 72ea68bd-8e15-403f-8020-c7e7c903517d,farm.eco,premium,9375,,high,low,4,name.com,,
-be34a103-eb91-4343-92f9-593a557ee937,cultivated.eco,available,72.98,101.98,low,low,10,namecheap,,
 98f9e3bb-c350-41fc-b036-b22d777570fb,science.vin,available,11.99,,high,medium,7,name.com,,
 47510d43-dd06-4334-9a0e-59efe8e9c5ce,water.zone,resell,,,high,medium,5,"Spaceship, Inc.",27/09/2024 15:15,27/09/2026 15:15
 332f1e06-42be-4b85-b638-0fbe46bb5ec3,production.organic,available,19.99,,high,low,10,name.com,,
 4f45e92b-6e3c-4b40-bc78-670a1ad0ef68,field.garden,available,39.98,,medium,low,5,namecheap,,
 72eace75-ed2f-4ca7-9de4-adaf3076fde0,nursery.garden,premium,500,,medium,low,7,name.com,,
 f246a883-5987-420e-b2d9-59cd5ee347e4,nursery.eco,premium,9375,,high,low,7,name.com,,
-73301f2b-fa14-4259-8ec3-e0e497671ad0,fruit.lat,premium,2354.79,,high,low,5,"Porkbun, LLC",16/09/2024 15:22,16/09/2026 23:59
 f3a17096-cecf-4e4e-a690-ef845b96b8bb,climate.technology,resell,,,high,low,7,"Global Domains International, Inc. DBA DomainCostClub.com",26/12/2025 15:15,26/12/2026 15:15
 41b4f196-4142-4d7b-83f3-ae4a6f7e9554,barn.technology,available,17.99,,high,low,4,name.com,,
 a3b12b8a-1e07-4a9b-8b02-1db5531d4f42,grape.co,resell,,,high,low,5,"Spaceship, Inc.",20/07/2010 18:00,19/07/2027 23:59
@@ -144,9 +136,7 @@ e3c21d5d-f5e6-4526-aef7-95bfd5416d09,change.garden,premium,96,29.5,high,medium,6
 a94b030f-5473-45e5-9e3f-45e79cff7f4a,fruit.tech,premium,1562.5,,high,low,5,name.com,,
 7a88f5b3-ca90-47cf-818a-747d3204fe2c,create.garden,premium,500,,high,medium,6,name.com,,
 df743469-7c6e-43cb-8cd6-08385abf0075,grape.science,premium,1250,,high,low,5,name.com,,
-39a4ea54-7ec3-409d-9d22-0742c599a718,water.ryukyu,available,22.98,,high,medium,5,namecheap,,
 9dc363c5-3347-4130-86d0-1e4ffe1901e8,grape.solar,available,9.99,,high,low,5,name.com,,
-3ad563cc-2bc4-4f9d-b48c-c74c8016c2b1,produces.farm,available,13.99,,medium,low,8,name.com,,
 01375dee-8fac-40c0-b153-19e73efcb323,economy.farm,available,13.99,,high,low,7,name.com,,
 99bbd7bb-feac-4694-b918-dc122e1155e2,grape.engineer,available,13.99,,high,low,5,name.com,,
 1d71f0a3-d38d-4fe8-a65c-e8e0127bea85,grape.engineering,available,11.99,,high,low,5,name.com,,
@@ -186,7 +176,6 @@ c8bd72f8-968b-491a-8c33-7ab2e0e4f89b,fish.garden,premium,96,29.5,high,low,4,name
 fcee65e3-dca3-451f-976b-72356d899bdf,animal.ai,resell,,,high,low,6,"GoDaddy.com, LLC",16/12/2017 03:23,25/04/2028 03:23
 583ffcad-1b6e-4639-9942-16593bbe49a2,grape.work,premium,302.5,9.44,high,low,5,namesilo,,
 f53fefcb-13ce-41cd-8c35-5d054dcc7dbe,farmers.garden,premium,250,,medium,medium,7,name.com,,
-bd84e411-c527-4c08-8a0e-5192192016f3,water.ventures,resell,,,high,medium,5,"Spaceship, Inc.",27/08/2025 15:15,27/08/2027 15:15
 3a27a43e-2727-46ce-a8af-fa0094d33016,control.garden,premium,104,31.2,high,low,7,namecheap,,
 4f136321-2a87-4699-ae88-3ffe971360de,grape.build,available,39.98,,high,low,5,namecheap,,
 f9058ad2-2550-42e4-9e29-c4c325907308,organic.it,resell,,,high,low,7,,29/09/2013 16:00,01/10/2026 00:00
@@ -233,7 +222,6 @@ b5268d58-71c9-4bd0-aeb7-9c4f3f82785a,rotation.farm,available,13.99,,medium,low,8
 989bcb6f-4046-4b20-8153-05e6e80b92d7,organic.vin,premium,123.75,123.75,high,low,7,name.com,,
 b75beb60-8fc2-412a-9316-de86c2c1d46d,organic.wine,available,,,high,low,7,,,
 70075d67-4629-46d7-b81b-06efa984d221,landscape.earth,resell,,,high,low,9,"GoDaddy.com, LLC",15/03/2023 23:43,15/03/2027 23:43
-44de3c94-93d8-47fd-9838-2e8752cad460,farms.technology,available,17.99,,medium,low,5,name.com,,
 101b1da4-3cd7-45df-ac77-db3d9ea2ccb8,grape.ceo,available,19.99,,high,low,5,name.com,,
 187c9a37-6085-4c28-9e09-258855d6cf32,landscape.green,premium,1107,1107,high,low,9,namesilo,,
 ebbae845-af79-48f7-882d-dc240cd5a157,grape.world,resell,,,high,low,5,Squarespace Domains II LLC,24/01/2018 08:53,24/01/2027 08:53
@@ -483,7 +471,6 @@ c79dbb42-fad7-4368-8b9d-f6f78b2ffccf,sustainable.it,resell,,,high,high,11,,16/02
 540845e9-8760-489e-b342-bd3145b75548,science.limited,premium,78.54,78.54,high,medium,7,namesilo,,
 e69d1dc9-0c7d-4217-962d-4cc4ffa2d949,science.ltda,premium,56.64,33.04,high,medium,7,namesilo,,
 c2ba1d3a-4239-4f87-af01-1a85dc88fc97,science.sarl,premium,38.94,38.94,high,medium,7,namesilo,,
-b070690f-37ee-493c-96e0-7b752e64b654,industry.report,resell,,,high,medium,8,Porkbun LLC,25/02/2017 00:49,25/02/2027 00:49
 5df49bbe-a4b2-4aa6-aaaa-39a033c2c868,food.space,premium,3250,13000,high,medium,4,namecheap,,
 a133a1a9-8931-4e70-9840-638e52a56d94,produce.space,premium,350,1400,high,low,7,namecheap,,
 80bbc65a-57fd-4c41-b7cd-135ef618848e,climate.space,premium,875,3500,high,low,7,namecheap,,
@@ -535,7 +522,6 @@ ab60a36a-65e9-49ac-b78f-c5ffa9f469e3,science.apartments,available,19.99,,high,me
 c25ac11b-28ad-4c4b-a937-e7260f3a9859,water.capital,resell,,,high,medium,5,"Sav.com, LLC - 39",04/10/2024 15:15,04/10/2026 15:15
 3e9cfc99-8cd6-4b62-8ff0-d6a87174877e,grape.men,available,,,high,low,5,,,
 4c6e9eb2-760c-417a-ac39-9a77fccaf73e,science.mov,premium,623.75,,high,medium,7,name.com,,
-1d85b3a6-9c5a-46a4-a952-90a0a57a4544,plants.trading,available,19.99,,high,low,6,name.com,,
 cd853eaa-8150-454c-96b6-7b218e060dfc,organic.co,resell,,,high,low,7,"GoDaddy.com, LLC",24/02/2010 23:26,23/02/2027 23:59
 d28d9f7b-c313-4adb-9205-74392d8a2075,water.trade,resell,,,high,medium,5,Porkbun,29/07/2019 13:17,29/07/2030 13:17
 1b5cf999-57f4-4943-81a5-fe1a60e037ee,grape.airforce,available,134.98,,high,low,5,namecheap,,
@@ -680,7 +666,6 @@ d421d1ac-3980-49da-8d7a-bad267ba172a,grape.bid,premium,1250,,high,low,5,name.com
 e586c394-e719-4d63-921c-9cda36cef3fe,science.trade,resell,,,high,medium,7,West263 International Limited,31/07/2019 12:23,31/07/2027 12:23
 3d36bf59-59bf-43c4-9a9b-5e4b2e3ddb31,water.fans,premium,390,390,high,medium,5,namecheap,,
 c8658982-460d-470a-abaa-6132b249dfe0,water.fan,premium,260,260,high,medium,5,namecheap,,
-14d4fcb3-6f7d-4aef-9f6e-5bc3ed7bb298,nursery.eu,premium,6930.51,,high,low,7,Name: eu-selene.at web invest gmbh & co KG Website: http://www.eu-selene.at,,
 bf790904-e110-44d9-8e77-c68706ad1d9c,grape.democrat,available,9.99,,high,low,5,name.com,,
 209b1c56-b8ec-4ccf-9f88-b2e783b6480a,grape.boutique,available,6.99,,high,low,5,name.com,,
 de548b0f-cfad-4e77-835b-4c881f9b8f2d,barn.solar,available,9.99,,high,low,4,name.com,,
@@ -737,7 +722,6 @@ ed1cccd0-5b9e-4470-a028-4dc2347a209a,grape.gratis,available,26.99,,high,low,5,na
 3be107a2-48f3-4639-9186-a38b02625e93,grape.free,available,44.98,,high,low,5,namecheap,,
 fbb5d475-bd73-47fe-9cce-5324ae006e3c,grape.golf,available,7.99,,high,low,5,name.com,,
 1fbe26a5-9b5f-4463-844c-3f35145c408b,grape.cricket,premium,437.5,,high,low,5,name.com,,
-cf1fe027-2176-4d81-96ba-d033a5c1057a,pestcontrol.archi,available,24.99,,high,low,12,name.com,,
 2913bec8-206b-4e75-8ee5-5e86c03dd4aa,water.host,premium,325,650,high,medium,5,namecheap,,
 6cd5d210-059a-46d5-b13a-91424b4d4340,grape.accountants,available,43.99,,high,low,5,name.com,,
 674c18bf-03b9-4085-a2dd-d39d39ca2b81,grape.accountant,premium,437.5,,high,low,5,name.com,,
@@ -999,3 +983,19 @@ c937cd82-af7d-4187-a1ee-beac60eaa2fc,yield.pet,available,19.99,,high,low,5,name.
 0936c6c8-3ee2-4b34-bc4d-d2f2b5b19da3,water.shopping,available,14.99,,high,medium,5,name.com,,
 da82ed04-6bab-4cce-acb6-2f8c1c519278,harvesting.tech,available,,,medium,high,10,,,
 f02267ff-643b-4ce1-a710-b293628583f7,fields.tech,available,,,medium,high,6,,,
+02b6233a-3b2f-4d40-a23b-50dfa2d9c6ae,poultry.tech,premium,650,1300,medium,high,7,namecheap,,
+99e11781-5027-47b0-a9d9-c7f8e0295b28,botany.tech,available,,,medium,high,6,,,
+f3bba4f1-d169-4e02-b85e-7d6e0f76a654,science.store,premium,781.25,3125,high,medium,7,name.com,,
+e8de2d42-be93-4032-88fc-aa3a8dca4ee7,animal.company,resell,,,high,low,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),08/06/2020 17:49,08/06/2026 17:49
+d0b26ce9-8b35-4b87-b003-05fbc16671d8,water.soy,premium,418.6,418.6,high,medium,5,namecheap,,
+873c2035-cbb6-4d66-b398-ff0ccc770cd8,barn.ing,premium,437.5,,high,low,4,name.com,,
+2dd0872b-1b84-4e14-aa4d-40f1a5a39c30,food.ing,premium,1690,1690,high,medium,4,namecheap,,
+7d0e0668-c1cf-4e88-b20f-86824b401298,produce.ing,premium,812.5,,high,low,7,name.com,,
+ef925422-9eb0-44ec-a73d-712afed74ae5,science.red,available,14.99,,high,medium,7,name.com,,
+09377277-c4ba-4511-bf8f-3ace148017a5,water.locker,premium,260,58.5,high,medium,5,namecheap,,
+91e6ca2d-54b5-4cff-b546-acb8627dca6f,technology.space,premium,3250,13000,high,low,10,namecheap,,
+fd315500-ed91-490e-9e7b-625915b4e207,tractor.space,available,,,high,high,7,,,
+a77d8c7b-3953-415c-ba7f-bceb68a65661,rural.space,premium,875,3500,high,low,5,namecheap,,
+48c4b0bc-9caa-4c09-9b28-6bb4e00e82d4,food.archi,available,24.99,,high,medium,4,name.com,,
+6269d0ec-b5b2-43b2-b6f3-a97cd02fd9a8,climate.archi,available,24.99,,high,low,7,name.com,,
+12e48d80-aea6-42db-b494-5f89bc81142d,barn.archi,available,24.99,,high,low,4,name.com,,

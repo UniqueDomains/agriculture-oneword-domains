@@ -1,10 +1,10 @@
-# One-Word Agriculture Domain Names (113,472)
+# One-Word Agriculture Domain Names (114,241)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-113%2C472%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-114%2C241%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 106,367 one-word agriculture domain names spanning 506 different TLDs, with a median ask of about $783. Updated daily, it covers agriculture-related terms like produce, season, bread, and animal across mainstream and niche extensions.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **113,472 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **114,241 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 113,472 domains · **Median ask:** $705.76 · **High-demand under $2,500:** 503
+**Public extract:** 1,000 rows · **Live catalog:** 114,241 domains · **Median ask:** $700.68 · **High-demand under $2,500:** 495
 
 **Last updated:** 2026-08-14
 **Canonical page:** `https://unique.domains/domains/sector/agriculture`
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar         |
 | ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| barn.eco         | available | $64.99      | —             | high           | low    | 4      | name.com          |
+| barn.archi       | available | $24.99      | —             | high           | low    | 4      | name.com          |
 | food.services    | resell    | $260        | $260          | high           | medium | 4      | Spaceship, Inc.   |
 | barn.business    | premium   | $15.34      | $15.34        | high           | low    | 4      | namesilo          |
-| barn.energy      | available | $21.99      | —             | high           | low    | 4      | name.com          |
+| barn.eco         | available | $64.99      | —             | high           | low    | 4      | name.com          |
 | water.bot        | resell    | $650        | $650          | high           | medium | 5      | GoDaddy.com LLC   |
+| barn.ing         | premium   | $437.50     | —             | high           | low    | 4      | name.com          |
+| barn.energy      | available | $21.99      | —             | high           | low    | 4      | name.com          |
+| water.info       | resell    | $5,750      | $35.99        | high           | medium | 5      | GoDaddy.com, LLC  |
 | barn.tech        | premium   | $156.25     | —             | high           | low    | 4      | name.com          |
 | barn.engineer    | available | $13.99      | —             | high           | low    | 4      | name.com          |
-| water.info       | resell    | $5,750      | $35.99        | high           | medium | 5      | GoDaddy.com, LLC  |
+| farming.io       | resell    | $162,953.85 | $73.99        | high           | high   | 7      | GoDaddy.com, LLC  |
 | corn.garden      | premium   | $96         | $29.50        | medium         | low    | 4      | namesilo          |
 | barn.engineering | available | $11.99      | —             | high           | low    | 4      | name.com          |
-| farming.io       | resell    | $162,953.85 | $73.99        | high           | high   | 7      | GoDaddy.com, LLC  |
+| environmental.io | resell    | $45,994.25  | $73.99        | high           | low    | 13     | GoDaddy.com, LLC  |
 | farm.eco         | premium   | $9,375      | —             | high           | low    | 4      | name.com          |
 | barn.garden      | available | $1.99       | —             | high           | low    | 4      | name.com          |
-| environmental.io | resell    | $45,994.25  | $73.99        | high           | low    | 13     | GoDaddy.com, LLC  |
+| cow.farm         | resell    | —           | —             | high           | low    | 3      | GoDaddy.com, LLC  |
 | farm.tech        | premium   | $3,125      | $12,500       | high           | low    | 4      | name.com          |
 | barn.green       | available | $11.99      | —             | high           | low    | 4      | name.com          |
-| cow.farm         | resell    | —           | —             | high           | low    | 3      | GoDaddy.com, LLC  |
-| fish.earth       | premium   | $150        | —             | high           | low    | 4      | name.com          |
-| barn.industries  | available | $17.49      | —             | high           | low    | 4      | name.com          |
 | barn.digital     | resell    | —           | —             | high           | low    | 4      | Sav.com, LLC - 45 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 113,472 live domains                       |
+| 1,000-row public sample | 114,241 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 503 high-demand names under $2,500         |
+| Basic exported fields   | 495 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 

@@ -32,6 +32,7 @@ d4f194fd-66c2-49c6-9862-6528ab141636,farming.engineer,available,17.99,56.99,medi
 2fcef62d-1696-4a38-9eaa-f506afa7e6ef,produces.green,available,11.99,,medium,low,8,name.com,,
 ff11b741-ca65-49b9-8564-92212ff0016f,climate.soccer,resell,,,high,low,7,"GoDaddy.com, LLC",28/12/2018 04:13,28/12/2026 04:13
 3207d8e1-8512-4282-9ef0-4ae01a5849ff,plants.forex,available,19.99,,high,low,6,name.com,,
+3ea913dd-f43c-44ee-9987-46799e03c1eb,production.land,available,5.98,54.98,medium,low,10,namecheap,,
 e6490ced-fb48-42ed-bff2-bfeb6ceb3e6d,water.organic,resell,,,high,medium,5,"Sav.com, LLC - 31",31/08/2025 15:15,31/08/2026 15:15
 e0e4a9b5-feb0-407e-9597-209df1b1b4d2,farming.digital,resell,,,medium,low,7,"Sav.com, LLC - 42",06/08/2025 15:15,06/08/2027 15:15
 5c36ac80-d472-4193-a896-ab19ba2e5bd4,farmers.vegas,available,29.99,,medium,medium,7,name.com,,
@@ -317,7 +318,6 @@ fdb36379-a23e-4c7b-b5ca-44d76b1f9b0f,environment.organic,available,19.99,,high,l
 961e0dad-48a2-4434-8c86-0eb96b102f73,environmental.organic,available,19.99,,high,low,13,name.com,,
 40e98ab7-7182-473e-8e7c-d6f03cc2f6d6,pestcontrol.tienda,available,9.99,,high,low,12,name.com,,
 b4d554f0-cad5-4078-b6d6-198f15447e9a,pestcontrol.place,resell,,,high,low,12,"GoDaddy.com, LLC",09/01/2015 18:16,09/01/2030 18:16
-f28588e1-2fd3-4445-bbe3-b8de59e0aae3,production.farm,available,13.99,,high,low,10,name.com,,
 3b4e5cff-f3a9-4184-99db-56577363e47b,farming.boats,available,1.8,19.98,medium,low,7,namecheap,,
 4081a7b7-4cad-4cb5-84fd-d5a0ff647584,landscaping.haus,available,19.99,,high,low,11,name.com,,
 4ec313d3-4498-4eec-8c1b-20077b31bfb4,farmers.boats,premium,2500,,medium,medium,7,name.com,,
@@ -358,6 +358,7 @@ a8f27c1b-6435-4e4d-a068-3ec019c4bcbb,farming.review,premium,3125,125,medium,low,
 0514e8b9-6b8e-4613-a9ee-15e0dc1b451d,landscaping.cricket,available,31.98,,high,low,11,namecheap,,
 5aecd146-21d4-42f6-9b65-14bf9ae41bb9,farms.ski,available,39.99,,medium,low,5,name.com,,
 6c758d05-a54f-40b6-bf6b-b6c1f98c60f3,field.farm,resell,,,medium,low,5,"Spaceship, Inc.",16/06/2022 13:15,16/06/2026 13:15
+d08b7090-24bb-43a7-9bf6-83b93732e7a7,production.cat,available,26.98,38.98,medium,low,10,namecheap,,
 64f2d4f4-a2fd-426c-98c9-3634bbca696a,farmers.luxury,available,49.99,,medium,medium,7,name.com,,
 47876d9b-e3a1-4be1-8527-b475f6b98379,farms.reise,available,27.89,97.99,medium,low,5,namesilo,,
 e2b6ca4e-3b93-4aeb-abbb-27b7a14f9505,growing.degree,available,14.99,64.99,medium,low,7,name.com,,
@@ -476,7 +477,6 @@ bb63e248-fee2-4a0c-814c-97dcb617adca,pestcontrol.clinic,available,19.99,,high,lo
 2cad886f-7304-4c6e-a59a-56d77b0bd3f6,landscaping.football,available,19.99,,high,low,11,name.com,,
 f19bdf44-38ff-4898-a80a-d6c23300f553,cereal.careers,available,28.98,89.98,low,low,6,namecheap,,
 3d1db7cb-cf46-497e-80f5-3cd4859018c2,cultivated.broker,available,11.98,47.98,low,low,10,namecheap,,
-c6052881-8e4a-4613-b979-b1fd3c095267,production.green,resell,,,high,low,10,Dynadot Inc,05/02/2026 17:00,05/02/2027 17:00
 f2b0ce1c-077c-484e-9934-a4de8a980839,milk.green,premium,625,,high,low,4,name.com,,
 7cae72ed-8987-4f67-812e-9f65eed9b5fd,wine.green,premium,1875,,high,low,4,name.com,,
 b4749d9d-e45c-48c8-ab6f-4ad98588a24e,smart.green,resell,,,high,medium,5,"Sav.com, LLC",02/02/2026 17:33,02/02/2027 17:33
@@ -591,10 +591,8 @@ f392d15f-e8c5-4f80-a3d5-43d20e0344cb,farms.website,premium,625,,medium,low,5,nam
 96e7bcf8-f7a5-41d9-896d-1c9b0aadf492,greenhouse.ooo,premium,250000,311.25,low,low,10,name.com,,
 7d80b658-7e14-4f16-b09e-6a7ae2263681,yield.eco,available,64.99,,high,low,5,name.com,,
 31ce1723-b58c-439b-9601-69edae47d377,milk.eco,premium,1875,,high,low,4,name.com,,
-94fbccab-129a-43a0-8030-42bee765a1af,production.eco,premium,4375,,high,low,10,name.com,,
 3f8cf884-23f1-4ff6-8d5e-487fd99c5c14,smart.eco,premium,9375,,high,medium,5,name.com,,
 5a922923-7ba4-446a-aac1-b1b1cd498ccc,rural.eco,premium,625,,high,low,5,name.com,,
-eb82206c-b3ce-4041-937f-40b0d6050886,hightech.garden,available,1.99,,high,low,9,name.com,,
 51400b92-4b89-4835-a6d5-f1576c05a904,tractor.tech,available,,,high,high,7,,,
 7b162e8f-0eb8-45ed-9f3a-b08648285dc0,rural.tech,premium,312.5,,high,low,5,name.com,,
 00c9a244-3da0-4033-95a8-2d622986dbae,technology.tech,premium,1562.5,6250,high,low,10,name.com,,
@@ -638,7 +636,6 @@ aa0f50e7-99d8-4380-9ff8-16ed3b2fa55e,farming.host,premium,312.5,625,medium,low,7
 fedf7f27-2e71-4d09-b844-b75b1c0360cb,farmers.art,premium,341.25,,medium,medium,7,name.com,,
 3870fa2c-23f9-4019-93f2-eef85e0d06e9,pestcontrol.haus,available,19.99,,high,low,12,name.com,,
 6807fe70-3088-4682-a09b-b6d63b85dd98,growing.international,available,9.48,40.48,medium,low,7,namecheap,,
-5e5b1b1d-7f4b-4740-bac5-7a6fbe8747ff,production.garden,available,1.99,,high,low,10,name.com,,
 e157c8c6-b487-4a9f-ab3e-681a62a7e95e,water.land,resell,,,high,medium,5,Porkbun LLC,21/10/2017 08:02,21/10/2026 08:02
 99012e79-ae6b-4060-9885-cfb3575e2e7d,greenhouse.markets,available,5.98,26.98,low,low,10,namecheap,,
 2d2969a1-7026-4f87-8006-1e1749d53559,husbandry.life,available,2.98,46.48,low,low,9,namecheap,,
@@ -694,7 +691,6 @@ cedcc353-531e-4e4c-831b-d977a425ff27,farming.giving,available,5.99,40.99,medium,
 2c61850d-cb1e-4cd7-8e8a-ad8b1d9d61a4,breeding.kim,available,5.98,32.98,low,low,8,namecheap,,
 6cfcc537-77ac-42eb-b999-3f76820ed484,tractors.money,available,19.99,,medium,low,8,name.com,,
 10d62e79-9cf0-446d-a355-9c8c28f35327,engineering.sex,available,154.98,,high,low,11,namecheap,,
-332f1e06-42be-4b85-b638-0fbe46bb5ec3,production.organic,available,19.99,,high,low,10,name.com,,
 69a552ba-e9d2-4bf7-9b44-afbf506ca8fa,breeding.democrat,available,5.98,41.48,low,low,8,namecheap,,
 5ee83937-6f59-4aa5-9019-3cab06b88b75,husbandry.navy,available,41.99,41.99,low,low,9,namesilo,,
 4b78c8a0-1953-4607-9ef1-d36a6a10e058,breeding.kitchen,available,8.98,83.98,low,low,8,namecheap,,
@@ -865,6 +861,7 @@ a7fe8f90-460d-4e28-94f8-128d5f1e208b,farming.mov,premium,311.25,311.25,medium,lo
 3fd21d07-86e7-41d8-bc35-6f20efca8e30,husbandry.nexus,available,12.98,15.98,low,low,9,namecheap,,
 79d0ed0b-6037-4be3-9a9f-a42771b43b53,produces.xxx,available,154.98,,medium,low,8,namecheap,,
 98b2206b-208c-466a-b72f-1622111d781c,water.space,premium,1625,6500,high,medium,5,namecheap,,
+f28588e1-2fd3-4445-bbe3-b8de59e0aae3,production.farm,available,4.98,49.98,medium,low,10,namecheap,,
 0b5f9b99-8a6f-4618-906a-55bbcf566c04,produces.free,premium,125,,medium,low,8,name.com,,
 24b11057-f98a-4f85-83a7-06803ebfa498,husbandry.vin,available,6.98,75.98,low,low,9,namecheap,,
 6c156a00-416d-4ebe-bc18-9078e7df2508,farmers.host,premium,312.5,,medium,medium,7,name.com,,
@@ -986,7 +983,6 @@ a1068f7a-9372-4d70-aee9-2936ab69de79,greenhouse.bond,premium,51.35,102.7,low,low
 df5149f3-b94a-405e-97b6-91c7b3ed2d4a,grape.living,premium,98,140,high,low,5,namecheap,,
 91da183b-f335-400b-9771-ed7bff121fb4,grape.lifestyle,premium,98,140,high,low,5,namecheap,,
 044fc0c0-7ce5-4569-82a8-8021e3071180,breeding.legal,available,9.99,92.99,low,low,8,name.com,,
-cdf41d83-e376-4c61-a445-0fba448737f8,production.love,resell,,,high,low,10,"Dynadot, LLC",20/06/2025 21:00,20/06/2026 21:00
 5251f633-1667-4c05-9a64-9523a5036b04,cultivated.cafe,available,5.98,64.98,low,low,10,namecheap,,
 e1364720-fc0c-41f4-8b24-edf23f3dbaf7,growing.football,available,19.99,37.99,medium,low,7,name.com,,
 4f015488-b32d-4250-b81e-58d71fb1c43b,husbandry.green,available,11.98,102.98,medium,low,9,namecheap,,
@@ -999,3 +995,7 @@ ab87de88-df4a-4cbf-8810-65dcfe859bdc,farms.fishing,available,32.49,32.49,medium,
 5e3bedca-22c5-4a88-88ab-0841fed6532b,husbandry.place,available,22.49,22.49,low,low,9,namesilo,,
 45c64e28-ae5a-4ddc-a23a-a6579722e34a,growing.estate,available,6.98,52.98,medium,low,7,namecheap,,
 75d8ff8f-b92a-4668-8a48-d517a8c40e90,farming.my,premium,66.36,94.81,medium,low,7,name.com,,
+b29451d5-b64c-42aa-8610-558af5c1767f,cultivated.tennis,available,65.99,65.99,low,low,10,namesilo,,
+30cca602-7a6c-4c7e-b661-e2fbf09f1186,cultivated.camera,available,21.99,75.99,low,low,10,name.com,,
+67efab73-6659-42ae-a25a-7b51fd574a1d,breeding.clinic,available,11.98,82.98,low,low,8,namecheap,,
+0a092436-2b54-4d77-918b-840709175b4d,water.pet,available,19.99,,high,medium,5,name.com,,

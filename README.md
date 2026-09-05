@@ -1,10 +1,10 @@
-# One-Word Agriculture Domain Names (121,088)
+# One-Word Agriculture Domain Names (121,245)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-121%2C088%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-121%2C245%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 106,367 one-word agriculture domain names spanning 506 different TLDs, with a median ask of about $783. Updated daily, it covers agriculture-related terms like produce, season, bread, and animal across mainstream and niche extensions.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **121,088 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **121,245 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 121,088 domains · **Median ask:** $669.72 · **High-demand under $2,500:** 485
+**Public extract:** 1,000 rows · **Live catalog:** 121,245 domains · **Median ask:** $669.48 · **High-demand under $2,500:** 485
 
-**Last updated:** 2026-09-03
+**Last updated:** 2026-09-05
 **Canonical page:** `https://unique.domains/domains/sector/agriculture`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| cow.ceo           | available | $10.19    | $109.99       | high           | low    | 3      | namesilo         |
-| food.media        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
-| pod.garden        | premium   | $500      | $46.99        | medium         | medium | 3      | name.com         |
-| pod.organic       | available | $19.99    | $73.99        | medium         | medium | 3      | name.com         |
-| food.place        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
-| seed.press        | premium   | $312.50   | —             | medium         | low    | 4      | name.com         |
-| barn.ryukyu       | available | $22.98    | —             | high           | low    | 4      | namecheap        |
-| food.rodeo        | resell    | —         | —             | high           | medium | 4      | Porkbun          |
-| wine.earth        | premium   | $1,183.32 | —             | high           | low    | 4      | 1API GmbH        |
-| tree.gives        | available | $5.99     | —             | high           | low    | 4      | name.com         |
-| food.school       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
-| farms.bond        | premium   | $188.16   | $376.32       | medium         | low    | 5      | namesilo         |
-| earth.ryukyu      | available | $22.98    | —             | medium         | medium | 5      | namecheap        |
-| food.solutions    | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
-| farms.boo         | premium   | $73.75    | —             | medium         | low    | 5      | name.com         |
-| farms.bike        | available | $14.99    | —             | medium         | low    | 5      | name.com         |
-| food.taxi         | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
-| farms.bot         | premium   | $116      | $116          | medium         | low    | 5      | namesilo         |
-| farms.blackfriday | available | $114.99   | $114.99       | medium         | low    | 5      | namesilo         |
-| soil.solutions    | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC      |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| land.ryukyu       | available | $22.98    | —             | medium         | low    | 4      | namecheap       |
+| data.tools        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC     |
+| cow.shop          | premium   | $2,500    | —             | high           | low    | 3      | name.com        |
+| farms.academy     | available | $21.99    | —             | medium         | low    | 5      | name.com        |
+| food.media        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC     |
+| seed.press        | premium   | $312.50   | —             | medium         | low    | 4      | name.com        |
+| farms.accountants | available | $43.99    | —             | medium         | low    | 5      | name.com        |
+| food.place        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC     |
+| wine.earth        | premium   | $1,183.32 | —             | high           | low    | 4      | 1API GmbH       |
+| farms.apartments  | available | $19.99    | —             | medium         | low    | 5      | name.com        |
+| rice.bio          | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| wine.mobile       | premium   | $1,250    | —             | high           | low    | 4      | name.com        |
+| farms.beauty      | available | $1.65     | $15.75        | medium         | low    | 5      | namesilo        |
+| soil.solutions    | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC     |
+| farms.art         | premium   | $131.20   | $83.30        | medium         | low    | 5      | namesilo        |
+| farms.bike        | available | $14.99    | —             | medium         | low    | 5      | name.com        |
+| tree.baby         | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| farms.auction     | premium   | $1,107    | $1,107        | medium         | low    | 5      | namesilo        |
+| farms.cab         | available | $19.99    | —             | medium         | low    | 5      | name.com        |
+| tree.services     | resell    | —         | —             | high           | low    | 4      | Porkbun LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 121,088 live domains                       |
+| 1,000-row public sample | 121,245 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 485 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Agriculture Domain Names*. Version 2026-09-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Agriculture Domain Names*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

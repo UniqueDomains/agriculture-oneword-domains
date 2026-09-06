@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| land.ryukyu       | available | $22.98    | —             | medium         | low    | 4      | namecheap       |
-| data.tools        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC     |
-| cow.shop          | premium   | $2,500    | —             | high           | low    | 3      | name.com        |
-| farms.academy     | available | $21.99    | —             | medium         | low    | 5      | name.com        |
-| food.media        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC     |
-| seed.press        | premium   | $312.50   | —             | medium         | low    | 4      | name.com        |
-| farms.accountants | available | $43.99    | —             | medium         | low    | 5      | name.com        |
-| food.place        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC     |
-| wine.earth        | premium   | $1,183.32 | —             | high           | low    | 4      | 1API GmbH       |
-| farms.apartments  | available | $19.99    | —             | medium         | low    | 5      | name.com        |
-| rice.bio          | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
-| wine.mobile       | premium   | $1,250    | —             | high           | low    | 4      | name.com        |
-| farms.beauty      | available | $1.65     | $15.75        | medium         | low    | 5      | namesilo        |
-| soil.solutions    | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC     |
-| farms.art         | premium   | $131.20   | $83.30        | medium         | low    | 5      | namesilo        |
-| farms.bike        | available | $14.99    | —             | medium         | low    | 5      | name.com        |
-| tree.baby         | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
-| farms.auction     | premium   | $1,107    | $1,107        | medium         | low    | 5      | namesilo        |
-| farms.cab         | available | $19.99    | —             | medium         | low    | 5      | name.com        |
-| tree.services     | resell    | —         | —             | high           | low    | 4      | Porkbun LLC     |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| cow.ceo           | available | $10.19    | $109.99       | high           | low    | 3      | namesilo         |
+| food.media        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
+| cow.shop          | premium   | $2,500    | —             | high           | low    | 3      | name.com         |
+| pod.industries    | available | $17.49    | $65.99        | medium         | medium | 3      | name.com         |
+| food.place        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
+| seed.press        | premium   | $312.50   | —             | medium         | low    | 4      | name.com         |
+| barn.ryukyu       | available | $22.98    | —             | high           | low    | 4      | namecheap        |
+| food.rodeo        | resell    | —         | —             | high           | medium | 4      | Porkbun          |
+| wine.earth        | premium   | $1,183.32 | —             | high           | low    | 4      | 1API GmbH        |
+| farms.beauty      | available | $1.65     | $15.75        | medium         | low    | 5      | namesilo         |
+| food.school       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
+| wine.mobile       | premium   | $1,250    | —             | high           | low    | 4      | name.com         |
+| farms.bike        | available | $14.99    | —             | medium         | low    | 5      | name.com         |
+| food.solutions    | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
+| farms.bond        | premium   | $188.16   | $376.32       | medium         | low    | 5      | namesilo         |
+| farms.blackfriday | available | $114.99   | $114.99       | medium         | low    | 5      | namesilo         |
+| food.taxi         | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| farms.boo         | premium   | $73.75    | —             | medium         | low    | 5      | name.com         |
+| farms.builders    | available | $7.99     | —             | medium         | low    | 5      | name.com         |
+| soil.solutions    | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

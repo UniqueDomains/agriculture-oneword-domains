@@ -1,10 +1,10 @@
-# One-Word Agriculture Domain Names (121,245)
+# One-Word Agriculture Domain Names (121,263)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-121%2C245%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-121%2C263%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 106,367 one-word agriculture domain names spanning 506 different TLDs, with a median ask of about $783. Updated daily, it covers agriculture-related terms like produce, season, bread, and animal across mainstream and niche extensions.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **121,245 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **121,263 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 121,245 domains · **Median ask:** $669.48 · **High-demand under $2,500:** 485
+**Public extract:** 1,000 rows · **Live catalog:** 121,263 domains · **Median ask:** $669.59 · **High-demand under $2,500:** 485
 
-**Last updated:** 2026-09-07
+**Last updated:** 2026-09-08
 **Canonical page:** `https://unique.domains/domains/sector/agriculture`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| barn.garden       | available | $1.99     | —             | high           | low    | 4      | name.com                       |
-| food.media        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                    |
-| pod.green         | premium   | $625      | $625          | medium         | medium | 3      | name.com                       |
-| barn.green        | available | $11.99    | —             | high           | low    | 4      | name.com                       |
-| food.place        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                    |
-| soil.eco          | premium   | $4,375    | $113.99       | high           | low    | 4      | name.com                       |
-| barn.organic      | available | $19.99    | —             | high           | low    | 4      | name.com                       |
-| tech.land         | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                    |
-| soil.garden       | premium   | $100      | —             | high           | low    | 4      | name.com                       |
-| land.ryukyu       | available | $22.98    | —             | medium         | low    | 4      | namecheap                      |
-| earth.engineering | resell    | —         | —             | medium         | medium | 5      | Sav.com, LLC - 18              |
-| soil.green        | premium   | $1,875    | $1,875        | high           | low    | 4      | name.com                       |
-| soil.organic      | available | $19.99    | $73.99        | high           | low    | 4      | name.com                       |
-| farms.agency      | resell    | —         | —             | medium         | low    | 5      | Sav.com, LLC - 29              |
-| wine.earth        | premium   | $1,183.32 | —             | high           | low    | 4      | 1API GmbH                      |
-| farms.academy     | available | $21.99    | —             | medium         | low    | 5      | name.com                       |
-| farms.cloud       | resell    | —         | —             | medium         | low    | 5      | Porkbun LLC                    |
-| wine.mobile       | premium   | $1,250    | —             | high           | low    | 4      | name.com                       |
-| farms.accountants | available | $43.99    | —             | medium         | low    | 5      | name.com                       |
-| farms.life        | resell    | —         | —             | medium         | low    | 5      | Xin Net Technology Corporation |
+| domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar         |
+| ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| barn.immobilien  | available | $14.99      | —             | high           | low    | 4      | name.com          |
+| cow.organic      | available | $19.99      | —             | high           | low    | 3      | name.com          |
+| food.services    | resell    | $260        | $260          | high           | medium | 4      | Spaceship, Inc.   |
+| cow.garden       | premium   | $500        | —             | high           | low    | 3      | name.com          |
+| barn.archi       | available | $24.99      | —             | high           | low    | 4      | name.com          |
+| farming.io       | resell    | $162,953.85 | $73.99        | high           | high   | 7      | GoDaddy.com, LLC  |
+| cow.green        | premium   | $1,875      | —             | high           | low    | 3      | name.com          |
+| barn.eco         | available | $64.99      | —             | high           | low    | 4      | name.com          |
+| environmental.io | resell    | $45,994.25  | $73.99        | high           | low    | 13     | GoDaddy.com, LLC  |
+| barn.build       | premium   | $1,875      | —             | high           | low    | 4      | name.com          |
+| barn.energy      | available | $21.99      | —             | high           | low    | 4      | name.com          |
+| cow.farm         | resell    | —           | —             | high           | low    | 3      | GoDaddy.com, LLC  |
+| barn.business    | premium   | $15.34      | $15.34        | high           | low    | 4      | namesilo          |
+| barn.engineer    | available | $13.99      | —             | high           | low    | 4      | name.com          |
+| barn.ai          | resell    | —           | —             | high           | low    | 4      | Dynadot Inc       |
+| barn.foo         | premium   | $161.25     | —             | high           | low    | 4      | name.com          |
+| barn.engineering | available | $11.99      | —             | high           | low    | 4      | name.com          |
+| barn.digital     | resell    | —           | —             | high           | low    | 4      | Sav.com, LLC - 45 |
+| barn.food        | premium   | $245        | $350          | high           | low    | 4      | namecheap         |
+| barn.garden      | available | $1.99       | —             | high           | low    | 4      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 121,245 live domains                       |
+| 1,000-row public sample | 121,263 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 485 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Agriculture Domain Names*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Agriculture Domain Names*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

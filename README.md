@@ -1,10 +1,10 @@
-# One-Word Agriculture Domain Names (60,401)
+# One-Word Agriculture Domain Names (60,394)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-60%2C401%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-60%2C394%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 106,367 one-word agriculture domain names spanning 506 different TLDs, with a median ask of about $783. Updated daily, it covers agriculture-related terms like produce, season, bread, and animal across mainstream and niche extensions.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **60,401 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **60,394 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 60,401 domains · **Median ask:** $665.46 · **High-demand under $2,500:** 141
+**Public extract:** 1,000 rows · **Live catalog:** 60,394 domains · **Median ask:** $665.46 · **High-demand under $2,500:** 141
 
 **Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/sector/agriculture`
@@ -68,22 +68,22 @@ print(df.head())
 | food.media     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
 | cow.shop       | premium   | $2,500    | —             | high           | low    | 3      | name.com         |
 | pod.boats      | available | $1.80     | $19.98        | medium         | medium | 3      | namecheap        |
-| food.place     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
+| food.rodeo     | resell    | —         | —             | high           | medium | 4      | Porkbun          |
 | pod.garden     | premium   | $500      | $46.99        | medium         | medium | 3      | name.com         |
 | pod.gives      | available | $5.99     | $40.99        | medium         | medium | 3      | name.com         |
-| food.rodeo     | resell    | —         | —             | high           | medium | 4      | Porkbun          |
+| food.school    | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
 | pod.webcam     | premium   | $625      | $81.25        | medium         | medium | 3      | name.com         |
 | pod.holiday    | available | $9.99     | $83.99        | medium         | medium | 3      | name.com         |
-| food.school    | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
+| food.solutions | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
 | seed.press     | premium   | $312.50   | —             | medium         | low    | 4      | name.com         |
 | pod.industries | available | $17.49    | $65.99        | medium         | medium | 3      | name.com         |
-| food.solutions | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
+| food.taxi      | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
 | farms.bond     | premium   | $188.16   | $376.32       | medium         | low    | 5      | namesilo         |
 | barn.ryukyu    | available | $22.98    | —             | high           | low    | 4      | namecheap        |
-| food.taxi      | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| make.coupons   | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
 | farms.boo      | premium   | $73.75    | —             | medium         | low    | 5      | name.com         |
 | roof.ag        | available | $89       | —             | medium         | low    | 4      | name.com         |
-| make.coupons   | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| rice.bio       | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 60,401 live domains                        |
+| 1,000-row public sample | 60,394 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 141 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |

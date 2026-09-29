@@ -1,10 +1,10 @@
-# One-Word Agriculture Domain Names (75,866)
+# One-Word Agriculture Domain Names (85,677)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-75%2C866%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-85%2C677%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 106,367 one-word agriculture domain names spanning 506 different TLDs, with a median ask of about $783. Updated daily, it covers agriculture-related terms like produce, season, bread, and animal across mainstream and niche extensions.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **75,866 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **85,677 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 75,866 domains · **Median ask:** $471.43 · **High-demand under $2,500:** 241
+**Public extract:** 1,000 rows · **Live catalog:** 85,677 domains · **Median ask:** $430.16 · **High-demand under $2,500:** 222
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/sector/agriculture`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| crop.accountants | available | $122.98     | $145.98       | high           | low    | 4      | namecheap        |
-| crop.xyz         | resell    | $228,721.20 | $20.99        | high           | low    | 4      | Dynadot Inc      |
-| crop.bar         | premium   | $409.50     | $585          | high           | low    | 4      | namecheap        |
-| crop.actor       | available | $9.48       | $54.98        | high           | low    | 4      | namecheap        |
-| farm.casa        | resell    | $17.98      | —             | high           | low    | 4      | Spaceship, Inc.  |
-| crop.best        | premium   | $1,180.99   | $1,180.99     | high           | low    | 4      | namecheap        |
-| crop.archi       | available | $14.98      | $132.98       | high           | low    | 4      | namecheap        |
-| farming.cloud    | resell    | $189.75     | $39.99        | high           | low    | 7      | Dynadot, LLC     |
-| crop.boo         | premium   | $167.70     | $167.70       | high           | low    | 4      | namecheap        |
-| crop.asia        | available | $1.98       | $18.98        | high           | low    | 4      | namecheap        |
-| irrigation.xyz   | resell    | $114,871.20 | $20.99        | high           | high   | 10     | Dynadot Inc      |
-| crop.buzz        | premium   | $130        | $65           | high           | low    | 4      | namecheap        |
-| crop.audio       | available | $108.98     | $159.98       | high           | low    | 4      | namecheap        |
-| agriculture.io   | resell    | $168,013.85 | $59.99        | high           | high   | 11     | Divido Ltd       |
-| crop.care        | premium   | $64.35      | $128.70       | high           | low    | 4      | namecheap        |
-| crop.auto        | available | $2,070      | $2,950        | high           | low    | 4      | namecheap        |
-| crop.design      | resell    | —           | —             | high           | low    | 4      | Sav.com LLC      |
-| crop.casa        | premium   | $52         | $13           | high           | low    | 4      | namecheap        |
-| crop.band        | available | $17.48      | $39.98        | high           | low    | 4      | namecheap        |
-| crop.dev         | resell    | —           | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                        |
+| ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | -------------------------------- |
+| farm.protection  | available | $1,999.99   | $2,049.99     | high           | low    | 4      | namesilo                         |
+| crop.ac          | available | $28.98      | $76.98        | high           | low    | 4      | namecheap                        |
+| crop.xyz         | resell    | $228,721.20 | $20.99        | high           | low    | 4      | Dynadot Inc                      |
+| crop.accountant  | premium   | $650        | $84.50        | high           | low    | 4      | namecheap                        |
+| crop.accountants | available | $122.98     | $145.98       | high           | low    | 4      | namecheap                        |
+| farm.casa        | resell    | $17.98      | —             | high           | low    | 4      | Spaceship, Inc.                  |
+| crop.art         | premium   | $354.90     | $91           | high           | low    | 4      | namecheap                        |
+| crop.airforce    | available | $109.98     | $134.98       | high           | low    | 4      | namecheap                        |
+| farming.cloud    | resell    | $189.75     | $39.99        | high           | low    | 7      | Dynadot, LLC                     |
+| crop.auction     | premium   | $260        | $260          | high           | low    | 4      | namecheap                        |
+| crop.apartments  | available | $60.98      | $72.98        | high           | low    | 4      | namecheap                        |
+| agriculture.io   | resell    | $168,013.85 | $59.99        | high           | high   | 11     | Divido Ltd                       |
+| crop.build       | premium   | $1,950      | $1,950        | high           | low    | 4      | namecheap                        |
+| crop.army        | available | $17.48      | $48.98        | high           | low    | 4      | namecheap                        |
+| crop.ag          | resell    | —           | —             | high           | low    | 4      | Sav.com, LLC                     |
+| crop.buzz        | premium   | $130        | $65           | high           | low    | 4      | namecheap                        |
+| crop.associates  | available | $12.98      | $49.98        | high           | low    | 4      | namecheap                        |
+| crop.gg          | resell    | —           | —             | high           | low    | 4      | Docky Company (https://docky.ly) |
+| crop.cfd         | premium   | $390        | $780          | high           | low    | 4      | namecheap                        |
+| crop.attorney    | available | $65.98      | $76.98        | high           | low    | 4      | namecheap                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 75,866 live domains                        |
+| 1,000-row public sample | 85,677 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 241 high-demand names under $2,500         |
+| Basic exported fields   | 222 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 

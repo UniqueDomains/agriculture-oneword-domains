@@ -1,10 +1,10 @@
-# One-Word Agriculture Domain Names (106,688)
+# One-Word Agriculture Domain Names (107,569)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-106%2C688%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-107%2C569%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 106,367 one-word agriculture domain names spanning 506 different TLDs, with a median ask of about $783. Updated daily, it covers agriculture-related terms like produce, season, bread, and animal across mainstream and niche extensions.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **106,688 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **107,569 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 106,688 domains · **Median ask:** $354.80 · **High-demand under $2,500:** 166
+**Public extract:** 1,000 rows · **Live catalog:** 107,569 domains · **Median ask:** $352.23 · **High-demand under $2,500:** 166
 
 **Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/sector/agriculture`
@@ -25,14 +25,14 @@ This selection includes 106,367 one-word agriculture domain names spanning 506 d
 <p align="center">
   <a href="https://unique.domains/domains/sector/agriculture?utm_source=github&utm_medium=referral&utm_campaign=repo_agriculture_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./agriculture.csv">CSV</a> / <a href="./agriculture.json">JSON</a>
-  · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_agriculture_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_agriculture_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_agriculture_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
 ---
 
 ➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/agriculture?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_agriculture_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/agriculture?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_agriculture_oneword_domains&utm_content=top_start_project)  
+➡️ **Founders:** [Start a naming Radar from this exact search](https://unique.domains/domains/sector/agriculture?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_agriculture_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_agriculture_oneword_domains&utm_content=top_api_docs)
 
 ---
@@ -67,22 +67,22 @@ print(df.head())
 | crop.army       | available | $17.48      | $48.98        | high           | low    | 4      | namecheap                                    |
 | crop.xyz        | resell    | $228,721.20 | $20.99        | high           | low    | 4      | Dynadot Inc                                  |
 | crop.art        | premium   | $354.90     | $91           | high           | low    | 4      | namecheap                                    |
-| crop.associates | available | $12.98      | $49.98        | high           | low    | 4      | namecheap                                    |
+| crop.attorney   | available | $65.98      | $76.98        | high           | low    | 4      | namecheap                                    |
 | farming.cloud   | resell    | $189.75     | $39.99        | high           | low    | 7      | Dynadot, LLC                                 |
 | crop.build      | premium   | $1,950      | $1,950        | high           | low    | 4      | namecheap                                    |
-| crop.attorney   | available | $65.98      | $76.98        | high           | low    | 4      | namecheap                                    |
+| crop.autos      | available | $1.80       | $21.98        | high           | low    | 4      | namecheap                                    |
 | agriculture.io  | resell    | $168,013.85 | $59.99        | high           | low    | 11     | Divido Ltd                                   |
 | crop.cfd        | premium   | $390        | $780          | high           | low    | 4      | namecheap                                    |
-| crop.autos      | available | $1.80       | $21.98        | high           | low    | 4      | namecheap                                    |
+| crop.baby       | available | $1.80       | $81.98        | high           | low    | 4      | namecheap                                    |
 | crop.gg         | resell    | —           | —             | high           | low    | 4      | Docky Company (https://docky.ly)             |
 | crop.company    | premium   | $16.90      | $16.90        | high           | low    | 4      | namecheap                                    |
-| crop.baby       | available | $1.80       | $81.98        | high           | low    | 4      | namecheap                                    |
+| crop.berlin     | available | $79.98      | $89.98        | high           | low    | 4      | namecheap                                    |
 | crop.live       | resell    | —           | —             | high           | low    | 4      | Sav.com, LLC - 30                            |
 | crop.consulting | premium   | $64.35      | $128.70       | high           | low    | 4      | namecheap                                    |
-| crop.berlin     | available | $79.98      | $89.98        | high           | low    | 4      | namecheap                                    |
+| crop.bid        | available | $5.98       | $9.98         | high           | low    | 4      | namecheap                                    |
 | crop.markets    | resell    | —           | —             | high           | low    | 4      | Porkbun LLC                                  |
 | crop.download   | premium   | $455        | $65           | high           | low    | 4      | namecheap                                    |
-| crop.bid        | available | $5.98       | $9.98         | high           | low    | 4      | namecheap                                    |
+| crop.broker     | available | $11.98      | $47.98        | high           | low    | 4      | namecheap                                    |
 | crop.pw         | resell    | —           | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -91,17 +91,17 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                             |
-| ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 106,688 live domains                       |
-| Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 166 high-demand names under $2,500         |
-| No persistence          | Radar, saved search, and alerts            |
-| No founder workflow     | Project, shortlist, and next-step workflow |
+| GitHub extract          | Unique Domains                                       |
+| ----------------------- | ---------------------------------------------------- |
+| 1,000-row public sample | 107,569 live domains                                 |
+| Static CSV / JSON       | live search and daily refresh                        |
+| Basic exported fields   | 166 high-demand names under $2,500                   |
+| No persistence          | Radar, saved search, and alerts                      |
+| No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/sector/agriculture?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_agriculture_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/agriculture?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_agriculture_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_agriculture_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/sector/agriculture?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_agriculture_oneword_domains&utm_content=top_create_radar) · [Start a naming Radar](https://unique.domains/domains/sector/agriculture?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_agriculture_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_agriculture_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/sector/agriculture?utm_source=github&utm_medium=referral&utm_campaign=repo_agriculture_oneword_domains&utm_content=top_open_search)
-- [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_agriculture_oneword_domains&utm_content=top_methodology)
+- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_agriculture_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_agriculture_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_agriculture_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)

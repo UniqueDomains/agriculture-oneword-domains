@@ -1,8 +1,15 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+f55e75e1-0c6e-4cae-94ae-7d193ad69ca3,agriculture.garden,premium,83,26.08,high,low,11,spaceship,,,07/10/2026 02:43
 11438a1c-2aaa-4c46-91da-a307ba2228a7,agriculture.so,available,64.98,,high,high,11,namecheap,,,
 2f478538-43e8-49b5-a450-3556853f7126,agriculture.zone,premium,102.67,102.67,high,low,11,spaceship,,,07/10/2026 02:43
+531075db-016b-469e-b611-254c22f126fb,agriculture.music,available,47.98,52.48,high,low,11,namecheap,,,07/10/2026 02:43
+163de1a5-c4d4-4714-8910-6080d3145f86,agriculture.bike,available,30.2,30.2,high,low,11,cloudflare,,,07/10/2026 02:43
 2e05aa90-a4a8-48f1-9e04-904d356be2c7,agriculture.supply,resell,,,high,low,11,"Global Domains International, Inc. DBA DomainCostClub.com",10/05/2018 04:20,10/05/2027 04:20,07/10/2026 02:43
+9657cd23-e093-4bb3-b8ae-ea1f1f5b4e3a,agriculture.credit,resell,,,high,low,11,1API GmbH,21/01/2016 01:25,21/01/2027 01:25,07/10/2026 02:43
 d174311d-67e1-4223-b724-9a1ba5ef04a4,agriculture.mba,available,30.2,30.2,high,low,11,cloudflare,,,07/10/2026 02:43
+2f556db6-2e40-4988-a4fb-ee95ea34ea7d,agriculture.accountant,available,23.59,23.59,high,low,11,namesilo,,,07/10/2026 02:43
+c9afa515-a401-46a4-9f34-dd544fb1d56d,agriculture.tienda,available,47.81,47.81,high,low,11,spaceship,,,07/10/2026 02:43
+32e4cea3-bb3b-46be-84ba-2e2b9e872bf3,agriculture.cricket,available,21.6,21.6,high,low,11,dynadot,,,07/10/2026 02:43
 58c1d886-06bd-488a-9957-1b34ec0a2e7b,agriculture.science,premium,640,77.35,high,low,11,namesilo,,,07/10/2026 02:43
 a844a9c2-a957-41d1-ace9-a79065597591,agriculture.red,resell,,,high,low,11,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),08/09/2019 17:12,08/09/2027 17:12,07/10/2026 02:43
 954b8711-241c-4e3a-960a-c2728604a666,agriculture.ceo,premium,258.7,258.7,high,low,11,namecheap,,,07/10/2026 02:43
@@ -36,11 +43,13 @@ e5b468b3-cb25-47f0-908b-baf31a1796a9,agriculture.limo,available,43.67,43.67,high
 0b064d1d-e89f-4057-881b-6d2b1c5d4c82,agriculture.juegos,available,321.22,321.22,high,low,11,dynadot,,,07/10/2026 02:43
 0e30c638-e9b2-4120-98c7-ab8ee4f2563e,agriculture.associates,premium,66.5,,high,low,11,unstoppable,,,07/10/2026 02:43
 a003a8d1-3a59-4f42-bf75-cfc0a39ebd83,agriculture.rip,available,4.5,21.62,high,low,11,dynadot,,,07/10/2026 02:43
+95eac40e-dbea-46d5-82c0-c85387f874f5,farming.agency,resell,,,high,low,7,"Sav.com, LLC - 24",09/07/2026 15:15,09/07/2027 15:15,26/09/2026 06:01
 cf0b63c0-9d54-49f7-b420-5400bb9aa3f6,agriculture.life,resell,,,high,low,11,"Sav.com, LLC - 43",19/01/2026 15:15,19/01/2027 15:15,07/10/2026 02:43
 6c98697e-611f-49fe-9cc1-5faa20a37eae,agriculture.sexy,available,2587.7,2587.7,high,low,11,spaceship,,,07/10/2026 02:43
 0cc4dec8-e267-4479-9f74-0431f7c702cf,agriculture.fans,premium,51.95,103.7,high,low,11,spaceship,,,07/10/2026 02:43
 e6e0ca59-f125-42c5-bb35-36e514aaf0f4,agriculture.blog,premium,550,2200,high,low,11,dynadot,,,07/10/2026 02:43
 194fd9eb-92d6-4372-b63c-cf089dbeceba,agriculture.coach,premium,242,242,high,low,11,namesilo,,,07/10/2026 02:43
+873a2790-8721-4858-91cf-a42eb6ecfbdf,farming.srl,premium,54.28,30.68,high,low,7,namesilo,,,17/08/2026 22:33
 3b0dcf2c-87be-49f7-afd0-14b3067f059b,agriculture.fashion,available,32.49,32.49,high,low,11,namesilo,,,07/10/2026 02:43
 812bafc2-cbd6-4a87-a395-9dc34f151d0b,farming.rentals,available,6.98,56.98,high,low,7,namecheap,,,17/08/2026 22:33
 7be5c49d-63af-4a0d-ad72-59e58e295809,agriculture.day,premium,61.27,61.27,high,low,11,spaceship,,,07/10/2026 02:43
@@ -58,20 +67,28 @@ b6158609-742e-43bb-9d3f-c8aee578c1ae,agriculture.fun,premium,137.5,550,high,low,
 a166bfd2-a689-4a9e-83f3-450ab9dc8c1c,agriculture.tech,premium,,,high,low,11,,,,07/10/2026 02:43
 d2268c35-d9cd-4897-bb53-d992fce0eb36,agriculture.wtf,available,2.27,29.18,high,low,11,spaceship,,,07/10/2026 02:43
 34e2956d-477f-457b-a331-e5c33beea7b1,agriculture.bayern,available,34.99,34.99,high,low,11,namesilo,,,07/10/2026 02:43
+8ab2689c-3673-4715-9007-0495ed6c504a,farming.luxe,available,19.49,19.49,high,low,7,namesilo,,,17/08/2026 22:33
+0db19e5c-5c70-47fd-bc74-1784c4bb6435,farming.auction,premium,242,242,high,low,7,namesilo,,,17/08/2026 22:33
 199697aa-ead7-433f-93dd-3359035b069c,farming.tube,premium,23.6,23.6,high,low,7,namesilo,,,17/08/2026 22:33
 3e34d265-ab93-48ac-9329-2c3b01b677ae,agriculture.actor,available,16.99,44.49,high,low,11,namesilo,,,07/10/2026 02:43
 f5ef2a1c-1644-4031-a855-41093087ee46,farming.lease,available,14.99,71.99,high,low,7,name.com,,,17/08/2026 22:33
 9d2477e5-6549-43f1-8495-3a1b8f69651a,agriculture.news,premium,517.7,1035.2,high,low,11,spaceship,,,07/10/2026 02:43
 f1ff615b-bf7e-4ea6-b4d5-1acc6776e704,farming.holdings,available,64.99,64.99,high,low,7,namesilo,,,17/08/2026 22:33
 5006d4b2-81ed-4146-be37-04ad649a62db,agriculture.rest,available,1.25,26,high,low,11,spaceship,,,07/10/2026 02:43
+c4a151b2-041e-4cb3-a909-31b4d3fa99a6,farming.fitness,available,3.48,54.98,high,low,7,namecheap,,,17/08/2026 22:33
 7b3538b1-d57f-49d0-be7c-acf82d6be0d0,agriculture.rent,available,1.18,51.95,high,low,11,spaceship,,,07/10/2026 02:43
 028d5e05-6f40-4a70-a1a3-5d7fb7070e6c,farming.pub,available,39.99,39.99,high,low,7,namesilo,,,17/08/2026 22:33
+4613e87f-ea59-4140-aa3f-5f7ea71e3be5,farming.sydney,available,44.98,54.98,high,low,7,namecheap,,,17/08/2026 22:33
+6498a508-fc9c-4ee6-8724-c4f46ebd6f3c,farming.family,premium,242,242,high,low,7,namesilo,,,17/08/2026 22:33
+f6094ac5-9e87-49e3-b2b5-b25087bce399,farming.forum,premium,87.5,125,high,low,7,name.com,,,17/08/2026 22:33
 d916ab60-3ce4-44bd-a1fc-ed28e66a97cb,agriculture.pet,available,14.49,27.59,high,low,11,namesilo,,,07/10/2026 02:43
 5186fc59-3c98-4a60-9890-7881a4b32f05,agriculture.holiday,available,64.99,64.99,high,low,11,namesilo,,,07/10/2026 02:43
 58f5cfcb-5168-4927-95c2-437fc0eefa54,agriculture.support,premium,242,242,high,low,11,namesilo,,,07/10/2026 02:43
 bc45748f-cb93-4c8f-a62c-93e2acd9c48b,agriculture.parts,premium,72.6,72.6,high,low,11,dynadot,,,07/10/2026 02:43
 0edd5d5f-1b15-4b01-9edb-8c7b5d6b62ca,farming.living,available,1.8,48.98,high,low,7,namecheap,,,17/08/2026 22:33
 ac48d31e-0e99-4f2c-96b5-eff1ce414580,farming.rent,available,5,81.98,high,low,7,namecheap,,,17/08/2026 22:33
+1a60115f-2151-4cb3-a677-2a209c815264,farming.email,available,4.98,40.98,high,low,7,namecheap,,,17/08/2026 22:33
+9c094b28-62db-47c7-924d-cb356906d8b9,farming.phd,premium,111.25,111.25,high,low,7,name.com,,,17/08/2026 22:33
 9953a53b-f4fc-4d6c-8ea8-f2512cd67a70,farming.faith,premium,116,29.5,high,low,7,namesilo,,,17/08/2026 22:33
 0673aee8-9d29-40e9-8e94-ed0ec2bafc94,agriculture.poker,available,10.99,67.99,high,low,11,namesilo,,,07/10/2026 02:43
 fcd3f19a-bc68-425c-a24b-da99b233774a,farming.talk,premium,71.4,71.4,high,low,7,namesilo,,,17/08/2026 22:33
@@ -381,7 +398,6 @@ a385b373-5585-42bd-957d-1c824925c024,farming.ceo,available,9.99,124.98,high,low,
 3c02ffa7-e4d4-48c7-95c5-865335c1a0a8,farming.institute,available,5.98,37.98,high,low,7,namecheap,,,17/08/2026 22:33
 70a15da6-0285-49b3-956d-361f46a18986,farming.fan,premium,123.75,123.75,high,low,7,name.com,,,17/08/2026 22:33
 bfcb1fde-9949-48a2-a1c9-2f544a03c6eb,agriculture.dating,available,11.59,51.95,high,low,11,spaceship,,,07/10/2026 02:43
-f55e75e1-0c6e-4cae-94ae-7d193ad69ca3,agriculture.garden,premium,83,26.08,high,low,11,spaceship,,,07/10/2026 02:43
 e5bd9cb2-be7e-43b4-82da-66f92e7a71fd,agriculture.it,resell,,,high,low,11,,28/06/2015 09:00,17/07/2027 00:00,07/10/2026 02:43
 688070f4-78c6-49e9-b67d-d755d537c973,agriculture.photo,premium,103.7,103.7,high,low,11,spaceship,,,07/10/2026 02:43
 bee7d5a4-193e-4dbc-8e71-83144ada57fa,agriculture.camp,available,49.88,49.88,high,low,11,spaceship,,,07/10/2026 02:43
@@ -641,7 +657,9 @@ bef68185-9b37-4bb2-a9a2-867a1118faee,farming.deals,available,5.99,50.99,high,low
 011faf92-7819-4219-9005-0d839e2b92ef,agriculture.law,resell,,,high,low,11,"GoDaddy.com, LLC",14/08/2020 09:12,14/08/2027 09:12,07/10/2026 02:43
 e1c64245-23ef-4457-af77-4b3513210e92,agriculture.pictures,resell,,,high,low,11,1API GmbH,23/07/2014 20:46,23/07/2027 20:46,07/10/2026 02:43
 d70332f5-2734-4a0a-a7bb-1d6e2ab1a636,farming.motorcycles,available,1.8,19.98,high,low,7,namecheap,,,17/08/2026 22:33
+c69c706e-bed3-4675-9629-bb7ceafe6858,farm.cv,premium,1042.76,69.86,high,low,4,spaceship,,,29/09/2026 18:58
 819724fc-e97e-499f-bb1b-2aa0d7d70a20,farming.irish,available,5.98,31.98,high,low,7,namecheap,,,17/08/2026 22:33
+a298650c-bc44-4073-b2de-ae224992ded7,farm.haus,premium,854,854,high,low,4,namesilo,,,29/09/2026 18:58
 b81199f0-71b5-42a8-9ba9-ede6bdf3ba79,farm.theatre,available,500.2,500.2,high,low,4,cloudflare,,,29/09/2026 18:58
 d5305f8a-7d55-4ee7-970b-9e5e18710545,agriculture.boats,available,1.24,13.97,high,low,11,spaceship,,,07/10/2026 02:43
 280d4a85-745d-4128-a694-0b8c01f0719e,agriculture.claims,available,17.99,64.99,high,low,11,namesilo,,,07/10/2026 02:43
@@ -651,10 +669,12 @@ bef0ff25-e66b-432f-87f2-532eb96ef62d,agriculture.watch,premium,118.8,118.8,high,
 db28b850-daa8-4a00-907f-52165658310e,agriculture.place,available,22.98,30.98,high,low,11,namecheap,,,07/10/2026 02:43
 7dc9e55b-a4c4-46ac-8e1b-b3538b37a885,agriculture.broker,available,10.55,29.18,high,low,11,spaceship,,,07/10/2026 02:43
 d081f7e4-c325-4114-95d2-0cc15c6f379a,agriculture.pub,available,32.29,32.29,high,low,11,spaceship,,,07/10/2026 02:43
+35dc6e2e-bd1f-4079-bc1a-2f56cfae2450,farm.associates,available,11.59,31.25,high,low,4,spaceship,,,29/09/2026 18:58
 e8887105-a374-4f35-98b8-949bb31e4cee,farm.pw,premium,2500,,high,low,4,unstoppable,,,29/09/2026 18:58
 b00c4a77-ed7d-4eef-8ad2-c9f9408a6610,agriculture.yachts,available,1.8,21.98,high,low,11,namecheap,,,07/10/2026 02:43
 6fa9c237-84aa-479e-9407-9f0b039e9943,agriculture.store,premium,2500.2,3125,high,low,11,unstoppable,,,07/10/2026 02:43
 00f31400-bf8d-48b7-9730-095d433b6593,farming.reisen,available,3.99,20.99,high,low,7,namesilo,,,17/08/2026 22:33
+29349d93-9ab6-45e5-9185-bb444f01c01c,farm.voto,available,10.55,55.93,high,low,4,spaceship,,,29/09/2026 18:58
 5079ed10-3dc2-4df6-8565-11cd7bb5b40e,agriculture.city,available,7.25,28.49,high,low,11,namesilo,,,07/10/2026 02:43
 11da5cd0-b6a7-4812-9def-d365cff734fa,agriculture.healthcare,available,88.99,88.99,high,low,11,namesilo,,,07/10/2026 02:43
 8fa3507b-b40e-428f-85af-3f322411800d,agriculture.sh,available,39.99,47.99,high,low,11,namesilo,,,07/10/2026 02:43
@@ -734,10 +754,8 @@ d7c288c1-d613-47e9-8187-01f96b71d5e2,farm.delivery,resell,,,high,low,4,"Spaceshi
 c025a8d4-7878-4ffb-9b83-dceaa93f2f04,farming.house,available,12.98,55.98,high,low,7,namecheap,,,17/08/2026 22:33
 f6d2493d-1930-4607-b4bb-af15a54576ec,agriculture.my,resell,,,high,low,11,"Spaceship, Inc.",17/01/2026 20:13,17/01/2027 20:13,07/10/2026 02:43
 7978c91b-fca7-446c-a0fb-caa349263233,farm.press,resell,,,high,low,4,,,,29/09/2026 18:58
-531075db-016b-469e-b611-254c22f126fb,agriculture.music,available,47.98,52.48,high,low,11,namecheap,,,07/10/2026 02:43
 387a4780-642c-40ff-8215-03958e7c8731,farm.adult,available,95.2,95.2,high,low,4,cloudflare,,,29/09/2026 18:58
 408e811c-4c8e-421e-a09f-2d5e25ef5c07,farming.zip,premium,311.25,311.25,high,low,7,name.com,,,17/08/2026 22:33
-163de1a5-c4d4-4714-8910-6080d3145f86,agriculture.bike,available,30.2,30.2,high,low,11,cloudflare,,,07/10/2026 02:43
 ceeeb2d9-e1c4-4d46-8e8f-185d34b4bb06,farming.careers,premium,500,500,high,low,7,name.com,,,17/08/2026 22:33
 b6f4e59f-1b88-44d9-847e-6961d49307f2,farming.ltda,premium,56.64,33.04,high,low,7,namesilo,,,17/08/2026 22:33
 9f84344b-1e79-4c56-80a2-621a97c66552,farm.ski,available,21.11,52.01,high,low,4,porkbun,,,29/09/2026 18:58
@@ -748,24 +766,19 @@ be139f3a-0efa-4438-8e10-a1f4cc75db96,farm.soy,premium,164.77,164.77,high,low,4,s
 ef259cca-1263-476d-a038-16133f9e42d3,farming.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,17/08/2026 22:33
 feefcd5d-5c6e-4cfb-a0a6-05716d862daf,agriculture.observer,premium,10.55,10.55,high,low,11,spaceship,,,07/10/2026 02:43
 702d416c-1e3a-4ead-839d-4f13d809b5f4,farm.black,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",22/01/2026 15:15,22/01/2027 15:15,29/09/2026 18:58
-9657cd23-e093-4bb3-b8ae-ea1f1f5b4e3a,agriculture.credit,resell,,,high,low,11,1API GmbH,21/01/2016 01:25,21/01/2027 01:25,07/10/2026 02:43
 2d5659c3-d1de-4f90-a348-3cf3588dbddb,farming.education,available,34.99,34.99,high,low,7,namesilo,,,17/08/2026 22:33
 8f332e0d-4b33-48d3-ba77-b4f249668171,farming.cc,resell,,,high,low,7,Dynadot Inc,20/04/2021 08:00,20/04/2027 08:00,26/09/2026 06:01
 f7944b43-fddc-4f08-88b3-5a5286111188,farm.attorney,available,49.88,49.88,high,low,4,spaceship,,,29/09/2026 18:58
 ddf0f960-f9d7-495e-98ce-5b05bd7a9469,agriculture.flights,available,45.2,45.2,high,low,11,cloudflare,,,07/10/2026 02:43
 cf765cd9-f10e-4bd5-bb69-08b13eaac12a,farming.you,premium,53.92,53.92,high,low,7,namesilo,,,17/08/2026 22:33
 306f9932-5f73-470d-be68-7637fe9d6da0,farming.it,resell,,,high,low,7,,22/01/2024 09:00,22/01/2027 00:00,26/09/2026 06:01
-78f1c6ea-0cc2-4a6f-9819-4cf7b76d5813,agriculture.report,resell,,,high,low,11,Porkbun LLC,22/11/2024 20:10,22/11/2026 20:10,07/10/2026 02:43
 2b469d5e-8925-4bee-9eeb-173c634ff56b,farm.institute,resell,,,high,low,4,Dynadot Inc,29/09/2023 23:11,29/09/2028 23:11,29/09/2026 18:58
 a07c07e3-eff5-4fea-8740-39fb97724787,agriculture.bio,premium,800.5,854,high,low,11,unstoppable,,,07/10/2026 02:43
 d4f194fd-66c2-49c6-9862-6528ab141636,farming.engineer,available,17.99,56.99,high,low,7,name.com,,,17/08/2026 22:33
 e7df3772-50e7-4e85-8a9b-d77c2cf38004,farming.car,available,1999.99,2199,high,low,7,namesilo,,,17/08/2026 22:33
 e10125c8-61b9-491a-99cc-eb82942cc410,agriculture.top,premium,360.31,360.31,high,low,11,namesilo,,,07/10/2026 02:43
-2f556db6-2e40-4988-a4fb-ee95ea34ea7d,agriculture.accountant,available,23.59,23.59,high,low,11,namesilo,,,07/10/2026 02:43
-c9afa515-a401-46a4-9f34-dd544fb1d56d,agriculture.tienda,available,47.81,47.81,high,low,11,spaceship,,,07/10/2026 02:43
 ee049a78-f7a5-4236-83fb-1f80d474123f,farming.xxx,available,69.98,154.98,high,low,7,namecheap,,,17/08/2026 22:33
 17232bd1-0f2a-4858-bda2-656ca5deefba,farm.cool,premium,414.2,414.2,high,low,4,spaceship,,,29/09/2026 18:58
-32e4cea3-bb3b-46be-84ba-2e2b9e872bf3,agriculture.cricket,available,21.6,21.6,high,low,11,dynadot,,,07/10/2026 02:43
 170314a9-3ee5-48e8-ba51-6b917409e36a,farm.rehab,premium,102.67,102.67,high,low,4,spaceship,,,29/09/2026 18:58
 9844dada-293f-431d-ae40-9e828ea94db7,farm.hot,premium,1300,1300,high,low,4,namecheap,,,29/09/2026 18:58
 ee9313df-a3b0-4d1a-8a4a-28cbabfc697f,farm.rich,available,79,160.72,high,low,4,dynadot,,,29/09/2026 18:58
@@ -791,6 +804,7 @@ d896e4c1-732e-4bef-86d1-6c539f49e9a2,farming.forsale,premium,118.8,118.8,high,lo
 d440cb87-d236-43a9-b3eb-25a95d782153,crop.xyz,resell,228721.2,20.99,high,low,4,Dynadot Inc,09/11/2020 03:24,09/11/2029 23:59,26/09/2026 05:20
 38f7e625-bbe9-4086-8500-d4498188bb6d,farm.kitchen,premium,500,,high,low,4,name.com,,,29/09/2026 18:58
 f413d6ea-8b46-463e-9db2-2d9f559cb7c2,farming.stream,available,5.25,6.25,high,low,7,namesilo,,,17/08/2026 22:33
+1268713f-ef0f-498a-8d3b-2a591cccb24e,crop.events,available,10.48,57.98,high,low,4,namecheap,,,24/09/2026 19:07
 6e7d19e7-cc9e-495f-9bb5-b9d8b8b6ddbc,farming.cyou,premium,68.43,147.2,high,low,7,namesilo,,,17/08/2026 22:33
 e5a22b23-9bc7-4ca7-aa70-dc1a650a09b2,farming.soccer,available,19.99,37.99,high,low,7,name.com,,,17/08/2026 22:33
 e3fdc512-d6ef-4fae-93a4-0c3b56f61336,farm.tours,resell,,,high,low,4,,,,29/09/2026 18:58
@@ -810,6 +824,7 @@ a533d212-7327-41ff-b676-b007de284f8d,farming.black,available,17.48,82.98,high,lo
 32a67b24-85b6-4436-860c-6a2ce11c2ff1,crop.christmas,available,1.8,49.98,high,low,4,namecheap,,,24/09/2026 19:07
 2f28e9cc-c731-4031-9e21-a99aa6a9d9d4,farming.lgbt,available,11.98,93.98,high,low,7,namecheap,,,17/08/2026 22:33
 1a9f84c5-47a0-45ef-9efe-cc0bf03a07f3,farm.democrat,available,25.2,25.2,high,low,4,cloudflare,,,29/09/2026 18:58
+ce5dfd14-38f6-47aa-acbb-969b66395ef2,crop.foo,premium,76.7,76.7,high,low,4,namecheap,,,24/09/2026 19:07
 8fe9dca8-e34b-499a-a9b9-cc2d8d0657ae,farming.ngo,available,16.99,16.99,high,low,7,name.com,,,17/08/2026 22:33
 16d716e0-c89a-4a6d-bacb-e3f511d6fb1b,crop.gg,resell,,,high,low,4,Docky Company (https://docky.ly),,,26/09/2026 05:20
 a33c44e0-de54-4131-9c9a-32fcabdbd7e2,farm.fast,premium,258.95,258.95,high,low,4,spaceship,,,29/09/2026 18:58
@@ -819,8 +834,9 @@ b1ea9168-d874-4d0a-838e-3017e6e249cc,farming.voyage,available,9.99,83.99,high,lo
 a6fce202-a036-4775-8afe-82b2d78fa44d,farming.skin,available,1.8,19.98,high,low,7,namecheap,,,17/08/2026 22:33
 80c26468-0faf-48f7-a44c-1d9232699b6b,cultivation.farm,available,30.2,30.2,high,low,11,cloudflare,,,03/10/2026 07:20
 d43d1461-b76a-45f5-908c-190dec2e7a6c,farm.health,premium,1035.2,62.3,high,low,4,spaceship,,,29/09/2026 18:58
+25191dfe-cb85-42b2-a78c-8ccda1076ede,crop.vet,available,43.98,52.98,high,low,4,namecheap,,,24/09/2026 19:07
 2c37d52d-38fb-4dbc-ba14-7a61fbe5efe8,farm.properties,premium,220,220,high,low,4,dynadot,,,29/09/2026 18:58
-95eac40e-dbea-46d5-82c0-c85387f874f5,farming.agency,resell,,,high,low,7,"Sav.com, LLC - 24",09/07/2026 15:15,09/07/2027 15:15,26/09/2026 06:01
+5af0144c-0389-4e7e-b898-f01b895f6a8f,crop.country,available,2298,2450,high,low,4,namecheap,,,24/09/2026 19:07
 04ae8b31-c22c-4981-8172-5e0d8ae2439a,farming.melbourne,available,44.98,53.98,high,low,7,namecheap,,,17/08/2026 22:33
 f49f8266-1f6e-4011-854c-fc79ae20ad1e,crop.company,premium,16.9,16.9,high,low,4,namecheap,,,24/09/2026 19:07
 317b8d46-4678-4a30-b1aa-15fa7de91539,farming.hosting,available,309.99,329.99,high,low,7,namesilo,,,17/08/2026 22:33
@@ -829,14 +845,17 @@ f49f8266-1f6e-4011-854c-fc79ae20ad1e,crop.company,premium,16.9,16.9,high,low,4,n
 bb15b478-17bd-455a-9b1e-537b9bd6c152,farming.clinic,available,11.98,82.98,high,low,7,namecheap,,,17/08/2026 22:33
 c4e52a20-76d0-49ff-b3b3-734493c72e33,farm.soccer,available,10.92,21.62,high,low,4,dynadot,,,29/09/2026 18:58
 748492b2-919e-4fdc-b6f3-dc928607bf8d,farming.forex,available,11.98,133.98,high,low,7,namecheap,,,17/08/2026 22:33
+83faf27d-f00b-452c-aee0-23973ee7ccd1,crop.global,premium,1560,65,high,low,4,namecheap,,,24/09/2026 19:07
 b1d6dabf-9b74-4a99-ab8c-99711fb68d47,farm.news,premium,440,440,high,low,4,dynadot,,,29/09/2026 18:58
 78923ce9-9396-451e-ab5d-c450842f95bf,farm.melbourne,premium,168.48,168.48,high,low,4,porkbun,,,29/09/2026 18:58
 2097110a-af73-4266-84cf-ec7acb7d39a0,crop.work,premium,650,13,high,low,4,namecheap,,,24/09/2026 19:07
 a12ca3f1-eb37-4171-8db7-9b4148d41db9,farm.claims,premium,414.2,414.2,high,low,4,spaceship,,,29/09/2026 18:58
+727cf11d-12e6-4851-a3eb-566fb92c9e21,crop.pictures,resell,,,high,low,4,Dynadot Inc,20/07/2014 16:00,20/07/2027 16:00,26/09/2026 05:20
 328c7151-3a87-411d-bf54-bffe7caa357a,farming.photography,available,6.98,46.48,high,low,7,namecheap,,,17/08/2026 22:33
 4d62b12f-f4b9-44a6-a799-2583f47cd890,farming.gmbh,available,45.99,45.99,high,low,7,namesilo,,,17/08/2026 22:33
 b93285c5-0e85-42f3-873a-d125b299c730,farming.consulting,available,8.48,67.98,high,low,7,namecheap,,,17/08/2026 22:33
-873a2790-8721-4858-91cf-a42eb6ecfbdf,farming.srl,premium,54.28,30.68,high,low,7,namesilo,,,17/08/2026 22:33
+2398a997-0878-4917-a750-acbe8d05951c,crop.domains,available,44.98,53.98,high,low,4,namecheap,,,24/09/2026 19:07
+e7eb885d-2f60-4a33-9f0f-10d2aa45c5f9,crop.makeup,available,1.8,21.98,high,low,4,namecheap,,,24/09/2026 19:07
 3b4e5cff-f3a9-4184-99db-56577363e47b,farming.boats,available,1.8,19.98,high,low,7,namecheap,,,17/08/2026 22:33
 725c59a9-05d8-4ba6-8620-a7eb7094179b,cultivation.ninja,available,11.98,42.98,high,low,11,namecheap,,,03/10/2026 07:20
 58e7a58a-1a97-4ebf-b134-0cb4a3f257ef,farm.supply,resell,,,high,low,4,1API GmbH,07/08/2015 16:00,07/08/2027 16:00,29/09/2026 18:58
@@ -877,9 +896,7 @@ aa294cb3-96ce-4ae0-8a13-1711d6d71406,farm.jewelry,available,50.2,50.2,high,low,4
 daa69d80-1208-406e-b84c-b6a5f91e5f46,farm.report,premium,207.2,207.2,high,low,4,spaceship,,,29/09/2026 18:58
 1f5318d8-3fc9-4523-a263-4d1c25296b78,farming.spot,premium,116,116,high,low,7,namesilo,,,17/08/2026 22:33
 4e0ca72b-2451-4b1b-8960-0034306bfa34,farming.cleaning,available,75.49,75.49,high,low,7,namesilo,,,17/08/2026 22:33
-8ab2689c-3673-4715-9007-0495ed6c504a,farming.luxe,available,19.49,19.49,high,low,7,namesilo,,,17/08/2026 22:33
 87d4c5f8-9c37-46fb-9350-37f9078491cb,farm.wiki,premium,845,845,high,low,4,namecheap,,,29/09/2026 18:58
-0db19e5c-5c70-47fd-bc74-1784c4bb6435,farming.auction,premium,242,242,high,low,7,namesilo,,,17/08/2026 22:33
 e9a90eba-870c-4bb5-8818-83dd069e85c7,farm.villas,premium,207.2,207.2,high,low,4,spaceship,,,29/09/2026 18:58
 b9f74965-8a25-48c8-a263-ec0c0cc53ed6,farm.inc,premium,1604.45,2070.2,high,low,4,spaceship,,,29/09/2026 18:58
 77d2f30a-25d8-4abb-b6ae-4bb9d8ed4c9c,crop.vegas,available,19.98,64.98,high,low,4,namecheap,,,24/09/2026 19:07
@@ -891,21 +908,15 @@ de893b55-a882-4649-9c4c-85a7f7381e74,crop.art,premium,354.9,91,high,low,4,namech
 8786a1f9-fc98-4883-b1d4-87b332db2db1,crop.hot,premium,1300,1300,high,low,4,namecheap,,,24/09/2026 19:07
 93fd5582-aeac-41b2-9312-4a194b01d6ba,farm.qpon,premium,2750,21.94,high,low,4,dynadot,,,29/09/2026 18:58
 90e615a9-291b-4b4e-b9c3-b8f881e47d64,farming.bio,premium,118.8,118.8,high,low,7,namesilo,,,27/09/2026 06:55
-c4a151b2-041e-4cb3-a909-31b4d3fa99a6,farming.fitness,available,3.48,54.98,high,low,7,namecheap,,,17/08/2026 22:33
 b1f4e28a-6b32-4f91-9624-00204d85871f,crop.trading,available,21.98,27.98,high,low,4,namecheap,,,24/09/2026 19:07
 b1297fa4-f392-4822-8b0f-88d0d1d26319,farm.click,premium,181.33,258.95,high,low,4,spaceship,,,29/09/2026 18:58
 17682bc5-7428-4ad8-b051-6d4b66b3095c,crop.tax,available,8.98,85.98,high,low,4,namecheap,,,24/09/2026 19:07
-4613e87f-ea59-4140-aa3f-5f7ea71e3be5,farming.sydney,available,44.98,54.98,high,low,7,namecheap,,,17/08/2026 22:33
-6498a508-fc9c-4ee6-8724-c4f46ebd6f3c,farming.family,premium,242,242,high,low,7,namesilo,,,17/08/2026 22:33
 cb10eb2f-dcc6-421f-9741-955368a1f2ad,farm.airforce,available,85.82,85.82,high,low,4,dynadot,,,29/09/2026 18:58
 d555eba6-7920-41e4-8769-87b216ffc054,crop.doctor,available,5.98,154.98,high,low,4,namecheap,,,24/09/2026 19:07
-f6094ac5-9e87-49e3-b2b5-b25087bce399,farming.forum,premium,87.5,125,high,low,7,name.com,,,17/08/2026 22:33
 2ce0f928-3bb2-4c0b-a697-48b51b6a8c77,farm.gratis,available,18.83,18.83,high,low,4,spaceship,,,29/09/2026 18:58
 99db2e3e-ee39-4d51-b6ec-c57e88b6ba7e,crop.mba,available,11.98,49.98,high,low,4,namecheap,,,24/09/2026 19:07
 68637a8d-40b1-4c1d-b643-3bd9294accf7,farm.build,premium,1950,1950,high,low,4,namecheap,,,29/09/2026 18:58
-1a60115f-2151-4cb3-a677-2a209c815264,farming.email,available,4.98,40.98,high,low,7,namecheap,,,17/08/2026 22:33
 19464c71-681a-4ead-8e40-804d83941083,farm.ing,premium,30000.2,37500,high,low,4,unstoppable,,,29/09/2026 18:58
-9c094b28-62db-47c7-924d-cb356906d8b9,farming.phd,premium,111.25,111.25,high,low,7,name.com,,,17/08/2026 22:33
 ea92a2d8-1df7-4189-9fb8-998039e6b8e4,cultivation.expert,available,6.64,51.58,high,low,11,dynadot,,,03/10/2026 07:20
 5d97b14e-cb97-4ec9-8ff3-c37ba4bbaf6e,farm.you,premium,258.95,258.95,high,low,4,spaceship,,,29/09/2026 18:58
 e21aeb23-a743-4f0f-9caa-47174a69025e,crop.online,premium,1625,6500,high,low,4,namecheap,,,24/09/2026 19:07
@@ -928,7 +939,9 @@ cf666cbd-fde1-4d2b-8376-48f8ce0b846b,crop.singles,available,3.98,36.98,high,low,
 f25d524b-0a02-4645-84c6-7b5b5937cb43,cultivation.ngo,premium,55,27.5,high,low,11,dynadot,,,03/10/2026 07:20
 46c8a9ba-4e18-40d1-8a82-f9f9c36c6c11,farm.boo,premium,499.2,,high,low,4,unstoppable,,,29/09/2026 18:58
 aad1c378-4181-4743-9187-3ac97cecfb15,crop.organic,available,,,high,low,4,,,,24/09/2026 19:07
+e1f8c259-7713-439c-9f24-ffff9484aea5,cultivation.guru,available,4.5,,high,low,11,unstoppable,,,03/10/2026 07:20
 00a0dcb6-502a-4450-b301-fe436a920a63,crop.limited,available,37.98,39.98,high,low,4,namecheap,,,24/09/2026 19:07
+f71835d1-4730-4ef9-8e89-0b5e739e6f4f,cultivation.moe,available,13.99,13.99,high,low,11,namesilo,,,03/10/2026 07:20
 a96329db-ff0d-4683-bf56-9ef028b011e0,farm.supplies,resell,,,high,low,4,"Name.com, Inc.",25/06/2014 16:00,25/06/2027 16:00,29/09/2026 18:58
 fcef1b82-135f-4caf-90e6-cd03ecc452d5,farm.works,premium,440,440,high,low,4,dynadot,,,29/09/2026 18:58
 2d56bc02-844e-4037-9049-0006cce15d13,farm.surgery,premium,260,260,high,low,4,namecheap,,,29/09/2026 18:58
@@ -937,8 +950,10 @@ ddb5a87c-4627-48f2-aa81-141734867e66,crop.autos,available,1.8,21.98,high,low,4,n
 cd2a243a-691a-40ba-98cc-31a26a3ed3eb,farm.fit,premium,207.2,26.08,high,low,4,spaceship,,,29/09/2026 18:58
 90b5eee3-7e00-40b1-a5a4-02dc07a38e56,cultivation.inc,premium,2061.5,2660,high,low,11,namesilo,,,03/10/2026 07:20
 562cbec1-87b9-4d93-83d3-aa4bec87710b,crop.degree,available,54.98,66.98,high,low,4,namecheap,,,24/09/2026 19:07
+daf1c907-a7da-4855-ae46-e2bcffc6a112,cultivation.protection,available,2000.2,2000.2,high,low,11,cloudflare,,,03/10/2026 07:20
 a4a99ace-f5c6-43d4-bbc4-485a232c44fe,cultivation.fan,available,43.67,43.67,high,low,11,spaceship,,,03/10/2026 07:20
 e0000c8c-e0be-4f52-a3bf-780beebe2563,crop.democrat,available,5.98,41.48,high,low,4,namecheap,,,24/09/2026 19:07
+5fc576d8-5e8f-4eef-a561-1df55e0e7c1f,cultivation.bid,premium,,,high,low,11,,,,03/10/2026 07:20
 148610c4-ffae-4c5a-b5c6-6d03e215fac5,crop.careers,available,28.98,89.98,high,low,4,namecheap,,,24/09/2026 19:07
 d0a1b475-de9f-4401-8623-ed710e3e957d,farm.channel,premium,516.67,516.67,high,low,4,spaceship,,,29/09/2026 18:58
 40ed01b8-c1ff-4c1a-b7c3-9a71131d7241,crop.rest,available,1.8,41.98,high,low,4,namecheap,,,24/09/2026 19:07
@@ -946,8 +961,11 @@ d0a1b475-de9f-4401-8623-ed710e3e957d,farm.channel,premium,516.67,516.67,high,low
 a0694c0d-f0e4-4a8e-8eb2-ce581c291920,crop.cool,available,5.98,50.98,high,low,4,namecheap,,,24/09/2026 19:07
 2818b4a7-13c3-4ab0-9b3c-bd911edea059,cultivation.mx,available,30.7,30.7,high,low,11,cloudflare,,,03/10/2026 07:20
 015014f2-b2cd-4367-ab8d-98ba20d7b114,cultivation.holiday,available,5.66,52.01,high,low,11,porkbun,,,03/10/2026 07:20
+7ed98e23-9b40-406b-80e6-6dfc37573982,cultivation.mobi,available,7.49,55.99,high,low,11,namesilo,,,03/10/2026 07:20
+d1072bfb-d771-47f0-bad0-bebe81ed5cc7,cultivation.surgery,available,54.99,54.99,high,low,11,namesilo,,,03/10/2026 07:20
 a8cb599a-0ee4-4092-8130-63527af6fafc,farm.cyou,premium,310.7,621.2,high,low,4,spaceship,,,29/09/2026 18:58
 8daa9582-8f58-4ca5-838a-bbf1cc213ff4,farm.flights,premium,128.7,128.7,high,low,4,namecheap,,,29/09/2026 18:58
+7ba7b84c-f378-4926-a795-8913b151e13b,cultivation.rip,available,24.5,,high,low,11,unstoppable,,,03/10/2026 07:20
 cf373563-5927-474a-b99f-0e0acdf7c091,cultivation.engineering,available,9.52,51.95,high,low,11,spaceship,,,03/10/2026 07:20
 0859f78d-5dc7-4ba7-83d2-e49dc17ae62b,cultivation.boats,available,1.24,13.97,high,low,11,spaceship,,,03/10/2026 07:20
 cb6a339b-daa3-4d76-925d-9fb0ddb0078d,cultivation.gallery,available,29.98,36.98,high,low,11,namecheap,,,03/10/2026 07:20
@@ -978,24 +996,6 @@ b143ea8a-adae-40b9-9d86-89221d83c4f0,soil.place,available,22.49,22.49,high,low,4
 75dcff76-1516-4292-b886-ee68e21265cc,crop.today,resell,,,high,low,4,Dynadot Inc,19/01/2026 17:00,19/01/2027 17:00,26/09/2026 05:20
 96b8a9a3-1b5f-426f-a7f2-29f3da35b713,crop.broker,available,11.98,47.98,high,low,4,namecheap,,,24/09/2026 19:07
 738fe21e-3914-4d48-b41a-485b138f2dff,crop.haus,available,11.98,37.98,high,low,4,namecheap,,,24/09/2026 19:07
+ff6d36cc-07f0-4dfa-ae04-81a43afba792,soil.tattoo,available,1.75,31.25,high,low,4,spaceship,,,06/10/2026 15:57
 ada5a317-4340-4d73-ab38-6ed8597ee695,crop.hiphop,available,25.98,33.98,high,low,4,namecheap,,,24/09/2026 19:07
 d04ecd1d-8718-4d22-8a3d-7f96bfb561e0,cultivation.download,premium,385,55,high,low,11,dynadot,,,03/10/2026 07:20
-b29564d7-8908-4c87-a9e7-73efa58c2389,soil.immo,available,34.99,34.99,high,low,4,namesilo,,,06/10/2026 15:57
-fb727c12-0c8a-4e80-8c8e-ec04416f6139,farm.cruises,available,54.98,68.98,high,low,4,namecheap,,,29/09/2026 18:58
-4502ec5b-b9ec-4d06-8877-83e1b41d543a,farm.graphics,available,19.48,19.48,high,low,4,dynadot,,,29/09/2026 18:58
-c386ffc8-719c-4f16-ab75-9d0c92deec01,cultivation.forex,available,10.92,85.82,high,low,11,dynadot,,,03/10/2026 07:20
-e81d52f4-281b-4020-9b39-4368cd5ff7fb,cultivation.la,available,27.99,27.99,high,low,11,namesilo,,,03/10/2026 07:20
-757d80dc-ed71-4bdf-871d-4d10e6ac5201,crop.download,premium,455,65,high,low,4,namecheap,,,24/09/2026 19:07
-6e716f12-472d-4087-9b8c-cd5ce4feb6fc,crop.training,available,8.98,53.98,high,low,4,namecheap,,,24/09/2026 19:07
-7226a022-d1fb-4f2a-8e20-daf741b7d4b4,farm.horse,premium,828.2,26.08,high,low,4,spaceship,,,29/09/2026 18:58
-ecfb6d22-371b-4a43-b918-3c8ca31c7767,farm.condos,premium,102.67,102.67,high,low,4,spaceship,,,29/09/2026 18:58
-85483839-3a80-487b-a65a-7a2d6dd94cee,soil.wine,available,7.45,47.81,high,low,4,spaceship,,,06/10/2026 15:57
-8245ba99-09c0-4239-bc45-56711ce8eb50,soil.exchange,resell,,,high,low,4,"GoDaddy.com, LLC",21/04/2024 12:16,21/04/2027 12:16,06/10/2026 15:57
-eb7498d0-8aa3-4e65-84a9-d61d9477210f,cultivation.properties,available,6.18,31.41,high,low,11,porkbun,,,03/10/2026 07:20
-326026ee-fdbd-4a34-a6e2-09a21d35edf0,crop.sarl,available,6.98,8.98,high,low,4,namecheap,,,24/09/2026 19:07
-b0c31a2d-88e4-4b34-ad09-14d2b38586c2,farm.catering,premium,128.7,128.7,high,low,4,namecheap,,,29/09/2026 18:58
-91545f55-a3ab-49fb-b353-1d43229d8da2,farm.immo,premium,102.67,102.67,high,low,4,spaceship,,,29/09/2026 18:58
-7ddad143-8007-4e3a-a459-6d39368baa24,farm.ceo,premium,413.37,413.37,high,low,4,spaceship,,,29/09/2026 18:58
-15b0b4a9-2546-4e98-8df8-d40af120be5a,cultivation.skin,available,1.24,13.97,high,low,11,spaceship,,,03/10/2026 07:20
-9c8f87c1-d2fb-40c6-a703-d8885bda0430,crop.tennis,available,67.98,81.98,high,low,4,namecheap,,,24/09/2026 19:07
-78057789-101c-490d-b3e8-ee9a3c31f24e,soil.pet,available,14.49,27.59,high,low,4,namesilo,,,06/10/2026 15:57

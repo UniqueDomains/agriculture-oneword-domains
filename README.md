@@ -1,10 +1,10 @@
-# One-Word Agriculture Domain Names (132,687)
+# One-Word Agriculture Domain Names (132,774)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-132%2C687%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-132%2C774%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 106,367 one-word agriculture domain names spanning 506 different TLDs, with a median ask of about $783. Updated daily, it covers agriculture-related terms like produce, season, bread, and animal across mainstream and niche extensions.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **132,687 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **132,774 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 132,687 domains · **Median ask:** $297.47 · **High-demand under $2,500:** 113
+**Public extract:** 1,000 rows · **Live catalog:** 132,774 domains · **Median ask:** $297.34 · **High-demand under $2,500:** 117
 
 **Last updated:** 2026-10-16
 **Canonical page:** `https://unique.domains/domains/sector/agriculture`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar        |
-| -------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| crop.actor     | available | $9.48       | $54.98        | high           | low    | 4      | namecheap        |
-| farm.casa      | resell    | $17.98      | —             | high           | low    | 4      | Spaceship, Inc.  |
-| crop.best      | premium   | $1,180.99   | $1,180.99     | high           | low    | 4      | namecheap        |
-| crop.audio     | available | $108.98     | $159.98       | high           | low    | 4      | namecheap        |
-| farming.cloud  | resell    | $189.75     | $39.99        | high           | low    | 7      | Dynadot, LLC     |
-| crop.boo       | premium   | $167.70     | $167.70       | high           | low    | 4      | namecheap        |
-| crop.auto      | available | $2,070      | $2,950        | high           | low    | 4      | namecheap        |
-| agriculture.io | resell    | $168,013.85 | $59.99        | high           | low    | 11     | Divido Ltd       |
-| crop.care      | premium   | $64.35      | $128.70       | high           | low    | 4      | namecheap        |
-| crop.band      | available | $17.48      | $39.98        | high           | low    | 4      | namecheap        |
-| crop.dev       | resell    | —           | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| crop.casa      | premium   | $52         | $13           | high           | low    | 4      | namecheap        |
-| crop.condos    | available | $61.98      | $72.98        | high           | low    | 4      | namecheap        |
-| crop.digital   | resell    | —           | —             | high           | low    | 4      | Sav.com, LLC - 1 |
-| crop.channel   | premium   | $167.70     | $167.70       | high           | low    | 4      | namecheap        |
-| crop.contact   | available | $13.98      | $16.78        | high           | low    | 4      | namecheap        |
-| crop.id        | resell    | —           | —             | high           | low    | 4      | PANDI Registrar  |
-| crop.click     | premium   | $91         | $130          | high           | low    | 4      | namecheap        |
-| crop.cooking   | available | $33.98      | $43.98        | high           | low    | 4      | namecheap        |
-| crop.pro       | resell    | —           | —             | high           | low    | 4      | Dynadot Inc      |
+| domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar       |
+| ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------- |
+| crop.accountants | available | $122.98     | $145.98       | high           | low    | 4      | namecheap       |
+| crop.xyz         | resell    | $228,721.20 | $20.99        | high           | low    | 4      | Dynadot Inc     |
+| crop.buzz        | premium   | $130        | $65           | high           | low    | 4      | namecheap       |
+| crop.blackfriday | available | $128.98     | $134.98       | high           | low    | 4      | namecheap       |
+| farm.casa        | resell    | $17.98      | —             | high           | low    | 4      | Spaceship, Inc. |
+| crop.eco         | premium   | $9,735.05   | $74.75        | high           | low    | 4      | namecheap       |
+| crop.camp        | available | $65.98      | $78.98        | high           | low    | 4      | namecheap       |
+| farming.cloud    | resell    | $189.75     | $39.99        | high           | low    | 7      | Dynadot, LLC    |
+| crop.esq         | premium   | $206.70     | $206.70       | high           | low    | 4      | namecheap       |
+| crop.courses     | available | $1.98       | $50.98        | high           | low    | 4      | namecheap       |
+| agriculture.io   | resell    | $168,013.85 | $59.99        | high           | low    | 11     | Divido Ltd      |
+| crop.food        | premium   | $227.50     | $325          | high           | low    | 4      | namecheap       |
+| crop.credit      | available | $9.48       | $131.98       | high           | low    | 4      | namecheap       |
+| crop.design      | resell    | —           | —             | high           | low    | 4      | Sav.com LLC     |
+| crop.garden      | premium   | $104        | $32.50        | high           | low    | 4      | namecheap       |
+| crop.dance       | available | $10.48      | $36.98        | high           | low    | 4      | namecheap       |
+| crop.im          | resell    | —           | —             | high           | low    | 4      | —               |
+| crop.how         | premium   | $122.20     | $122.20       | high           | low    | 4      | namecheap       |
+| crop.dentist     | available | $63.98      | $81.98        | high           | low    | 4      | namecheap       |
+| crop.world       | resell    | —           | —             | high           | low    | 4      | DNSPod, Inc.    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 132,687 live domains                                 |
+| 1,000-row public sample | 132,774 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 113 high-demand names under $2,500                   |
+| Basic exported fields   | 117 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 

@@ -1,10 +1,10 @@
-# One-Word Agriculture Domain Names (133,271)
+# One-Word Agriculture Domain Names (135,041)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-133%2C271%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-135%2C041%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 106,367 one-word agriculture domain names spanning 506 different TLDs, with a median ask of about $783. Updated daily, it covers agriculture-related terms like produce, season, bread, and animal across mainstream and niche extensions.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **133,271 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **135,041 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 133,271 domains · **Median ask:** $296.38 · **High-demand under $2,500:** 128
+**Public extract:** 1,000 rows · **Live catalog:** 135,041 domains · **Median ask:** $293.98 · **High-demand under $2,500:** 100
 
-**Last updated:** 2026-10-18
+**Last updated:** 2026-10-19
 **Canonical page:** `https://unique.domains/domains/sector/agriculture`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar         |
-| ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| crop.bike        | available | $5.98       | $48.98        | high           | low    | 4      | namecheap         |
-| agriculture.io   | resell    | $168,013.85 | $59.99        | high           | low    | 11     | Divido Ltd        |
-| crop.cricket     | premium   | $455        | $65           | high           | low    | 4      | namecheap         |
-| crop.black       | available | $17.48      | $82.98        | high           | low    | 4      | namecheap         |
-| crop.city        | resell    | —           | —             | high           | low    | 4      | DNSPod, Inc.      |
-| crop.cyou        | premium   | $390        | $780          | high           | low    | 4      | namecheap         |
-| crop.car         | available | $2,070      | $2,400        | high           | low    | 4      | namecheap         |
-| crop.info        | resell    | —           | —             | high           | low    | 4      | Sav.com, LLC - 19 |
-| crop.date        | premium   | $390        | $65           | high           | low    | 4      | namecheap         |
-| crop.cleaning    | available | $79.98      | $94.98        | high           | low    | 4      | namecheap         |
-| crop.photos      | resell    | —           | —             | high           | low    | 4      | Dynadot Inc       |
-| crop.fishing     | premium   | $104        | $32.50        | high           | low    | 4      | namecheap         |
-| crop.clinic      | available | $11.98      | $82.98        | high           | low    | 4      | namecheap         |
-| crop.report      | resell    | —           | —             | high           | low    | 4      | 1API GmbH         |
-| crop.forsale     | premium   | $128.70     | $128.70       | high           | low    | 4      | namecheap         |
-| crop.coach       | available | $11.98      | $95.98        | high           | low    | 4      | namecheap         |
-| crop.run         | resell    | —           | —             | high           | low    | 4      | Spaceship, Inc.   |
-| crop.mobile      | premium   | $390        | $390          | high           | low    | 4      | namecheap         |
-| crop.contractors | available | $36.98      | $39.98        | high           | low    | 4      | namecheap         |
-| crop.team        | resell    | —           | —             | high           | low    | 4      | Sav.com, LLC - 22 |
+| domain         | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar        |
+| -------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| crop.archi     | available | $14.98      | $132.98       | high           | low    | 4      | namecheap        |
+| crop.app       | resell    | $9,200      | $26.99        | high           | low    | 4      | Dynadot LLC.     |
+| crop.bar       | premium   | $409.50     | $585          | high           | low    | 4      | namecheap        |
+| crop.asia      | available | $1.98       | $18.98        | high           | low    | 4      | namecheap        |
+| agriculture.io | resell    | $168,013.85 | $59.99        | high           | low    | 11     | Divido Ltd       |
+| crop.diy       | premium   | $227.50     | $325          | high           | low    | 4      | namecheap        |
+| crop.bargains  | available | $14.98      | $37.98        | high           | low    | 4      | namecheap        |
+| crop.dev       | resell    | —           | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| crop.fans      | premium   | $65         | $130          | high           | low    | 4      | namecheap        |
+| crop.bike      | available | $5.98       | $48.98        | high           | low    | 4      | namecheap        |
+| crop.now       | resell    | —           | —             | high           | low    | 4      | Dynadot Inc      |
+| crop.fast      | premium   | $325        | $325          | high           | low    | 4      | namecheap        |
+| crop.black     | available | $17.48      | $82.98        | high           | low    | 4      | namecheap        |
+| crop.quest     | resell    | —           | —             | high           | low    | 4      | Spaceship, Inc.  |
+| crop.forum     | premium   | $130        | $130          | high           | low    | 4      | namecheap        |
+| crop.cam       | available | $2.98       | $22.98        | high           | low    | 4      | namecheap        |
+| crop.report    | resell    | —           | —             | high           | low    | 4      | 1API GmbH        |
+| crop.help      | premium   | $91         | $130          | high           | low    | 4      | namecheap        |
+| crop.clinic    | available | $11.98      | $82.98        | high           | low    | 4      | namecheap        |
+| farm.biz       | resell    | —           | —             | high           | low    | 4      | NameCheap, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 133,271 live domains                                 |
+| 1,000-row public sample | 135,041 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 128 high-demand names under $2,500                   |
+| Basic exported fields   | 100 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Agriculture Domain Names*. Version 2026-10-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Agriculture Domain Names*. Version 2026-10-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
